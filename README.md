@@ -46,7 +46,7 @@ This is an inherently-interesting blockchain feature that Quatre-finance builds 
 **Total Supply** | _vary_
 **CurrentSupply** | **Total Supply**
 
-The **FOUR** Token is controlled by smart contract at [[Contract Address]](http://bscscan.com) which is owned by the [[Farmer Contract Address]](http://bscscan.com). The instruction is set at construction time for the farmer can only mint a total lifeTime amount of **_Max Supply_**. The farmer is a fair minter, never allows token be burnt by anyone but has a mechanism for creating scarcity to bring greater value to the **FOUR Token**. 
+The **FOUR** Token is controlled by smart contract at [[Contract Address]](http://bscscan.com) which is owned by the [[Farmer Contract Address]](http://bscscan.com). The instruction is set at construction time for the farmer can only mint a total lifeTime amount of **_Max Supply_**. The farmer is a bit stricter, never allows token be burnt by anyone but by self with mechanisms a mechanism for creating scarcity to bring greater value to the **FOUR Token**. 
 
 ### Farmer does not allow to burn token. Why?
 As the farm owner, the farmer needs to have more control on his produce hence the restriction but without sacrificing decentralization, that is, anyone who buys from the farmer is an acceptable valid channel (s) retains the ownership for as long as they wish. In the event of otherwise,   **QFOUR Token** is designed to call for value via its use cases and a special staking algorithm which temporarily mops out token from circulation by usage (i.e NeedDotStaking NDS) as staking increases and similarly emits when unstaked.
