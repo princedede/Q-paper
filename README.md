@@ -48,13 +48,26 @@ This is an inherently-interesting blockchain feature that Quatre-finance builds 
 
 The **FOUR** Token is controlled by smart contract at [[Contract Address]](http://bscscan.com) which is owned by the [[Farmer Contract Address]](http://bscscan.com). The instruction is set at construction time for the farmer can only mint a total lifeTime amount of **_Max Supply_**. The farmer is a fair minter, never allows token be burnt by anyone but has a mechanism for creating scarcity to bring greater value to the **FOUR Token**. 
 
-### Farmer does not allow token burn. Why?
-The space is clouded with the notion that token-burn is a must to bring value to it but **QFOUR Token** is designed to call for value via its use cases and a special staking algorithm which mops out token from circulation as staking increases and similarly emits when unstaked.
+### Farmer does not allow to burn token. Why?
+As the farm owner, the farmer needs to have more control on his produce hence the restriction but without sacrificing decentralization, that is, anyone who buys from the farmer is an acceptable valid channel (s) retains the ownership for as long as they wish. In the event of otherwise,   **QFOUR Token** is designed to call for value via its use cases and a special staking algorithm which temporarily mops out token from circulation by usage (i.e NeedDotStaking NDS) as staking increases and similarly emits when unstaked.
   * #### How it works: 
   For instance, in the Buy and Sell category, to keep the system healthy, a user who wants to create a seller account is required to have an amount in **FOUR** Token staked with the farmer via a proxy account. When the ```stake()``` is called, it switches the farmer to what we termed **_Sedentary mode_**. This is a state of unavailability that does reduces **totalSupply** by the staked amount. The balance is reflected in the **_allowances_** of farmer to the source contract - balance which is neither spendable nor withdrawable by anyone. 
- Just as the mechanism renders the caller's staked balance inactive for the period as long as the account is active. The only way to retrieve the staked balance is when **proxy account** is ```closeOut()```. In this process, an action is creatd notifying the farmer. Thereafter, a **_stakedAmt** is forwarded along with the accrued reward to the staker. It in-turn increases the amount of token in circulation. One can always verify total **QFOUR** Token in circulation either from the farm or the farmer.
+ Just as the mechanism renders the caller's staked balance inactive for the period as long as the account is active. The only way to retrieve the staked balance is when **proxy account** is ```closeOut()```. In this process, an action is created notifying the farmer. Thereafter, a **_stakedAmt** is forwarded along with the accrued reward to the staker's account. It in-turn increases the amount of token in circulation. One can always verify total **QFOUR** Token in circulation either from the farm or the farmer.
+  This applies only to the **"Pro"** category.
+  Also, it uses a method of recycling
 
-`NOTE`: At any given time, **_CurrentSupply_** will always equal **_TotalSupply_**
+`NOTE`: At any given time, **_CurrentSupply_** will always equal **_TotalSupply_**.
+
+#### Uses of **QFOUR Token**.
+**QFOUR Token** will be used for but not limited to such as:
+- For fee in some, not all Quatre-finance products.
+- To keep the ecosystem healthy via intermediate programs such as staking.
+- Gas to keep the proxies running.
+    ...
+    
+    
+
+
 
 
 ### Ways to Earn With Quatre-finance
