@@ -3,6 +3,8 @@
 
 ## Welcome to Quatre-Finance.
 
+----------------------------------
+
 ### What is Quatre-Finance (QFOUR)?
 Quatre-finance is a platform for decentralized digital services that aims not to completely uninstall the application world but to continually re-emphasize the need for true decentralization by building decentralized products tailored to individual needs putting them in complete control of their funds and/or investments. Our core product and ideology is centred around creating a platfiorm for low-income to high income grade users to easily access funds via peer-to-peer system.
 
@@ -43,20 +45,31 @@ We believe in fair dealings. While control and ownership belongs to a user, our 
 #### Trust less
 This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to transact without fear. Quatre protocol gives you rest of mind without knowing the identity of the other party.
 
->
+----------------------------------------------------------------
 
 ## Quatre-four (Q-core)
-A pool four-man peer-to-peer lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to Quatre-four will be a lender and same time a borrower. So if you're looking to lend, please refer to the [Q-Lend section](https://link-here). 
+- How it works
+A pool four-man peer-to-peer lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to Quatre-four will be a lender and same time a borrower. So if you're looking to lend, please refer to the [Q-Lend section](https://link-here). Users must have at least, an amount in _[minimumstakingAmount]()_ given via approval in favor of the _[factory contract]()_. It will be deducted from the source then added to their stake balance, tie-locked to the _[proxy]()_ throughout the _[quat period]()_. Subsequently, balance is automatically available to unstake.
+`NOTE:` After the *quat period* has ended, reward will stop counting. 
 
-Cat|A | B
----|--|---
-BtoS | StoB
+[fig 1.0]()
 
+BtoS | base | exponential | denominator | value | | StoB | base | exponential | denominator | value
+---- | ---- | ----------- | ------------ | ----- |-| ---- | ---- | ----------- | ------------ | -----
+4 | 10 | 18 | 0.000000000000000001 BNB | 4 BNB | | 3000 | 10 | 1 | base x base asset's decimals | 3000 x denomination
+8 | 10 | 18 | 0.000000000000000001 BNB | 4 BNB | | 6000 | 10 | 1 | base x base asset's decimals | 6000 x denomination
+12 | 10 | 18 | 0.000000000000000001 BNB | 4 BNB | | 9000 | 10 | 1 | base x base asset's decimals | 9000 x denomination
+20 | 10 | 18 | 0.000000000000000001 BNB | 4 BNB | | 20000 | 10 | 1 | base x base asset's decimals | 20000 x denomination
 
-What it simply mean is that, the [Proxy factory](https://something.here) creates a single consecutive pool in any of the selected category that can only be filled with four persons. While the pool has slots, anyone is free to join, perhaps the protocol unanimously add user to a free slot in the category they have selected. When the pool is completed, a flag is raised which sets an activation time
+Exmaple: Assume Alice selects **`4`** from the the **`BtoS`** category. At this point, Alice is required to forward along with the call - an amount of **`4 BNB`** only if the current pool is unfilled hence a new instance of pool with Alice's preferences is launched and she is added. The final value of each consecutive preceeding number in the list is an unsigned integer representing 10 in exponential of 18 multiplied by the denominator presented in smallest unit of BNB. Alice will retain the first position in the current **`BtoS[4]`** pool. Every subsequent user that joins the pool is treated in the order of first-in-first-out (FIFO) basis. Soon as the expected pool participants is achieved, the total pool amount is available to the first participant to withdraw, in this case **Alice**.
 
+What it simply mean is that, the [Proxfactory](https://something.here) creates a single consecutive pool in any of the selected category that can only be filled with four persons. While the pool has slots, anyone is free to join, perhaps the protocol unanimously add user to a free slot in the category they have selected. When the pool is completed, a flag is raised which sets an activation time allowing the first participant to withdraw the total pool amount. To access the fund, Alice will provide collateral base on the set collateral factor as at that time. She will have the possession of the total pool amount for period not greater than 7 days after which fund is made available to the next on the queue. It is a mutual financial relationship among four persons who have by implied reason agreed to collectively provide funds to finance one another at a prevailing market lending rate and share profits in equal ratio. Every participants in the pool is lender and same time borrower. The Quatre protocol ensures that no potential loss is incurred in this relationship but does not guarnatee profit from business or fiancial engagement (s) user may diversify into.  
 
+#### In-line benefit
+Some time, it may take a while for the pool to complete since action does not begin until the required quorum is attained, to compliment for the lag, we automatically qualify user to participate in the Quatre farming where they earn reward at every emitted block for participating in the protocol. However, this is not to be confused with reward for staking as the base rate for the former is lesser than latter.
 
+#### The goal
+We aim to enable anyone from any part of the globe access a moderate amount of loan by providing a quota with promise to return (without default) the full amount together with accrued interest, direct to any profit-yielding endeavor (s) or use for trading on exchange (s) of their choices.
 
 
 
