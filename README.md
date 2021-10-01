@@ -1,38 +1,63 @@
 # Introduction
 ![Logopit_1632895157540](https://user-images.githubusercontent.com/35783747/135256124-da1fe235-08d6-453a-9734-3148911a77d2.png)
 
-Quatre-finance is a platform for decentralized digital services that aims not to completely uninstall the application world but to continually reemphasize the need for true decentralization by building decentralized products tailored to individual needs. It is built on the Binance smart chain technology.
+## Welcome to Quatre-Finance.
+
+### What is Quatre-Finance (QFOUR)?
+Quatre-finance is a platform for decentralized digital services that aims not to completely uninstall the application world but to continually re-emphasize the need for true decentralization by building decentralized products tailored to individual needs putting them in complete control of their funds and/or investments. Our core product and ideology is centred around creating a platfiorm for low-income to high income grade users to easily access funds via peer-to-peer system.
+
+Our mission is to provide tools for that create and manages financial relationship between lenders and borrowers without either parties having to know or trust who they are dealing with in a manner that regards the right of both parties, give them equal control and everyone is happy in the end. 
+
+### Quatre-finance underlying technology.
+The protocol will exist both on the Binance smart chain and Ethereum blockchain technologies.
 
 ### Why Binance Smart Chain?
 Every EVM compatible technologies have one thing that differentiates them from one another. We chose Binance for a couple of reasons. Some of which states: 
 
-* It is Ethereum virtual machines compatible i.e it capable of executing smart contracts.
-* It is preferred for its low transaction fees.
-* Binance smart chain network encourages Borderless decentralized finance (DeFi).
+* It is Ethereum virtual machines compatible i.e it capable of executing smart contracts instructions which we deem suitable for implemeting our backend.
+* Binance Smart Chain (BSC) is preferred for its considerably low transaction fees.
+* BSC network encourages Borderless decentralized finance (DeFi) that allows anyone around the globe with an internet service to acceess our services.
 * Its performance is suitable for mass adoption.
 
-Leveraging on the use cases of blockchain technology such as the distributive and immutability features via smart contract architecture, we established Quatre-finance protocol that inherits the existing blockchain attributes with added rules.
+Leveraging on the use cases of blockchain technology such as the distributive, permissionless and immutability features via smart contract architecture, we established Quatre-finance protocol that inherits the modern blockchain attributes with customised rules.
 
-### Highly Decentralized
-Even with some decentralized finance platforms, you're still at the mercy of someone. At Quatre-finance, you decide which way to go. 
-Quatre products and core value always consider a four-sided properties thus:
+###  Highly Decentralized
+Even with some decentralized finance platforms, you're still at the mercy of someone. At Quatre-finance, you decide which way to go if your decision is fairly reasonable enough. 
+Our products and core value will always consider a four-sided properties thus:
 - Own it.
 - control it.
 - be fair.
 - trust less.
 
 #### Own it
-Quatre products brings you to the position of an owner. Most of the accessility requests are tied to user's response rather than having to entrust your approval in third party services. We build it : you own it.
+Quatre products gives the fulfilment of owning it. Accessility to your funds are blended with your signature and you don't have to be at the mercy any centralized exchange platform to bring in or take take out your funds. We build it : you own it.
 
 #### Control it
 > Knowing you're in control is the first assurance of security.
+
 Control is preceded by ownership. In fact they go hand in hand. The Quatre protocol brings you a high level of control over your assets/funds. If you engage in any of the Quatre-finance's p2p products, control is mutual while you also retain a good amount of ownership.
 
 #### Be fair
-We believe in fair dealings. Even while control and ownership belongs to a user, our protocol ensures that other parties involved with you in any transaction are fairly treated without jeopardizing your control.
+We believe in fair dealings. While control and ownership belongs to a user, our protocol ensures that other parties involved with you in any transaction are fairly treated without jeopardizing your need for control.
 
 #### Trust less
-This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to transact without fear. Quatre protocol gives you rest of mind with whoever behind the scene you're dealing with.
+This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to transact without fear. Quatre protocol gives you rest of mind without knowing the identity of the other party.
+
+>
+
+## Quatre-four (Q-core)
+A pool four-man peer-to-peer lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to Quatre-four will be a lender and same time a borrower. So if you're looking to lend, please refer to the [Q-Lend section](https://link-here). 
+
+Cat|A | B
+---|--|---
+BtoS | StoB
+
+
+What it simply mean is that, the [Proxy factory](https://something.here) creates a single consecutive pool in any of the selected category that can only be filled with four persons. While the pool has slots, anyone is free to join, perhaps the protocol unanimously add user to a free slot in the category they have selected. When the pool is completed, a flag is raised which sets an activation time
+
+
+
+
 
 
 ## Understanding the FOUR Token
