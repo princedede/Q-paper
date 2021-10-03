@@ -46,12 +46,8 @@ We believe in fair dealings. While control and ownership belongs to a user, our 
 This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to transact without fear. Quatre protocol gives you rest of mind without knowing the identity of the other party.
 
 ----------------------------------------------------------------
-<<<<<<< HEAD
 
 ## GETTING STARTED
-=======
-## Quatre Products
->>>>>>> 77f44c7ebcfe9d9b337f019d0034e5cbcb5fd327
 
 ### Quatre-four (Q-core)
 
