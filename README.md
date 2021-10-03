@@ -46,18 +46,22 @@ We believe in fair dealings. While control and ownership belongs to a user, our 
 This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to transact without fear. Quatre protocol gives you rest of mind without knowing the identity of the other party.
 
 ----------------------------------------------------------------
+<<<<<<< HEAD
 
 ## GETTING STARTED
+=======
+## Quatre Products
+>>>>>>> 77f44c7ebcfe9d9b337f019d0034e5cbcb5fd327
 
 ### Quatre-four (Q-core)
 
 A pool four-man peer-to-peer short-term lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to Quatre-four will be a lender and same time a borrower. So if you're looking to lend, please refer to the [Q-Lend section](https://link-here). Users must have at least, an amount in _[minimumstakingAmount]()_ given via approval in favor of the _[factory contract]()_. It will be deducted from the source then added to their stake balance, tie-locked to the _[proxy]()_ throughout the _[quat period]()_. Subsequently, balance is automatically available to unstake.
-`NOTE:` After the *quat period* has ended, reward will stop counting. 
+> `NOTE:` After the *quat period* has ended, reward will stop counting. 
 
 [fig 1.0]()
 
 BtoS | base | exponential | denominator | value | | StoB | base | exponential | denominator | value
----- | ---- | ----------- | ------------ | ----- |-| ---- | ---- | ----------- | ------------ | -----
+---- | ---- | ----------- | ------------ | ----- |-| ---- | ---- | ----------- | ------------ | ---------------------
 4 | 10 | 18 | 0.000000000000000001 BNB | 4 BNB | | 3000 | 10 | 1 | base x base asset's decimals | 3000 x denomination
 8 | 10 | 18 | 0.000000000000000001 BNB | 4 BNB | | 6000 | 10 | 1 | base x base asset's decimals | 6000 x denomination
 12 | 10 | 18 | 0.000000000000000001 BNB | 4 BNB | | 9000 | 10 | 1 | base x base asset's decimals | 9000 x denomination
@@ -67,7 +71,7 @@ Exmaple: Assume (in order of first-come) Alice, Bob, Peter and John joined a poo
 
 What it simply mean is that, the [Proxfactory](https://something.here) creates a single pool in any of the selected category that can only be filled with four persons. While the pool has slots, anyone is free to join, perhaps the protocol unanimously add user to a free slot in the category they have selected. When the pool is completed, a flag is raised which sets an activation time allowing the first participant to withdraw the total pool amount. To access the fund, Alice will provide collateral base on the set collateral factor as at that time. She will have the possession of the total pool amount for period not greater than 7 days after which fund is made available to the next on the queue. It is a mutual financial relationship among four persons who have by implied reason agreed to collectively provide funds to finance one another at a prevailing market lending rate and share profits in equal ratio. Every participants in the pool is lender and same time borrower. The Quatre protocol ensures that no potential loss is incurred in this relationship by enforcing necessary and some strict measures but does not guarantee profit from business or fiancial engagement (s) user may diversify into with the fund. On the repayment due date (plus grace period if any), if the borrower defaults, a liquidation floor is open but restricted only to any of the three remaining members otherwise, the pool is updated and available to the next on queue i.e Bob. [Read and understand how the liquidation works](). When Alice repays, it comes with interest recorded in favor of all participants. The circle continues until John's is completed. For more information, please see the [FAQ section]().
 
-**`NOTE :`** Quatre-finance does not have control over your account or funds. In fact, we have no way to access it.
+**`NOTE :`** _Quatre-finance does not have control over your account or funds. In fact, we have no way to access it._
 
 #### In-line benefit
 Some time, it may take a while for the pool to complete since action does not begin until the required quorum is attained, to compliment for the lag, we automatically qualify user to participate in the Quatre farming where they earn reward at every emitted block for participating in the protocol. Reward is calculated [here](). However, this is not to be confused with reward for staking as the base rate for the former is lesser than latter.
@@ -81,7 +85,7 @@ We aim to enable anyone from any part of the globe to access a short-term modera
 
 Similar to **Q-core**, Providers in this category are lenders that singlehandedly provide loans in the amount they wish. Here, we do not have a pool of persons but a fairly one-man who decides when to put his fund in use. The lender sets parameters such as the loan amount, collateral plus the factor, interest rate, duration their funds can be used and a few others. Going by the proxy pattern, the lender owns up to 50% level of control while rest is shared between the proxy and the borrower. We embedded checks that chackmates the activities of both parties ensuring interests are protected. There can only be one borrower in a round. That is, if as an example, the lender set duration to 14 days of use, then no other borrower will be allowed during this period until the current loan is settled. If the borrower defaults payments after the repayment period lapses, the right to liquidate the borrower remains with the lender. While yet not the reapayment period, lender has no means to put the other party in the liquidation state. However, this category does not qualify them for the Quatre farming reward.
 
-**`NOTE :`** Quatre-finance does not have control over your account or funds. In fact, we have no way to access it. You own it.
+**`NOTE :`** _Quatre-finance does not have control over your account or funds. In fact, we have no way to access it. You own it._
 
 ----------
 
