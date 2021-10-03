@@ -46,10 +46,10 @@ We believe in fair dealings. While control and ownership belongs to a user, our 
 This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to transact without fear. Quatre protocol gives you rest of mind without knowing the identity of the other party.
 
 ----------------------------------------------------------------
-## Quatre Products**</center> 
+
+## GETTING STARTED
 
 ### Quatre-four (Q-core)
-- How it works
 
 A pool four-man peer-to-peer short-term lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to Quatre-four will be a lender and same time a borrower. So if you're looking to lend, please refer to the [Q-Lend section](https://link-here). Users must have at least, an amount in _[minimumstakingAmount]()_ given via approval in favor of the _[factory contract]()_. It will be deducted from the source then added to their stake balance, tie-locked to the _[proxy]()_ throughout the _[quat period]()_. Subsequently, balance is automatically available to unstake.
 `NOTE:` After the *quat period* has ended, reward will stop counting. 
@@ -79,48 +79,66 @@ We aim to enable anyone from any part of the globe to access a short-term modera
 
 ### Quatre LandB (Q-LandB)
 
-Similar to **Q-core**, LP providers in this category are lenders but singlehandedly provide loans in the amount they wish. We do not have a pool of persons but a fairly one-man show. The lender sets parameters such as the loan amount, collateral plus the factor, duration their funds can be used and a few others. By  the proxy pattern, the lender owns up to 50% level of control while rest is shared between the proxy and the borrower. There can only be one borrower in a round. That is, if as an instance, the lender set duration to 14 days of use, then no other borrower will be allowed during this period until the current loan is settled. However, this category does not qualify for the Quatre farming reward.
+Similar to **Q-core**, Providers in this category are lenders that singlehandedly provide loans in the amount they wish. Here, we do not have a pool of persons but a fairly one-man who decides when to put his fund in use. The lender sets parameters such as the loan amount, collateral plus the factor, interest rate, duration their funds can be used and a few others. Going by the proxy pattern, the lender owns up to 50% level of control while rest is shared between the proxy and the borrower. We embedded checks that chackmates the activities of both parties ensuring interests are protected. There can only be one borrower in a round. That is, if as an example, the lender set duration to 14 days of use, then no other borrower will be allowed during this period until the current loan is settled. If the borrower defaults payments after the repayment period lapses, the right to liquidate the borrower remains with the lender. While yet not the reapayment period, lender has no means to put the other party in the liquidation state. However, this category does not qualify them for the Quatre farming reward.
 
 **`NOTE :`** Quatre-finance does not have control over your account or funds. In fact, we have no way to access it. You own it.
 
 ----------
 
+### Quatre Buy and Sell (Q-BandS)
+
+This category operates similar to the usual way of buy and selling crypto assets except with few dissimilarities and features thus:
+- No centralized exchange or intermediary.
+- No KYC is needed.
+- Seller creates a one-time flexible account (added to the pool of sellers on the Quatre page) that absolutely belongs to them. Flexibility means that it can be added/listed on our partners's exchange for greater visibility. **`Note`** that this may remove the **no-kyc** feature. Anyone can be referred to directly buy from same seller repeatedly.
+- Prices are solely determined and set by the seller. Our protocol handles all necessary and underlying calculations, checks and balances for absolute precisions.
+- Free from CEX's regulations and demands.
+
+For more information, see the [FAQ Section]().
+**`Note:`** To operte any of the categories, user must possess the [minimumStakeAmount]() in **`QFOUR` Token** (given as an allowance in favor of the [Q-factory]())in the external account they're using to interact with the protocol at that time. Be sure to read more on our staking mechanism.
+
+---------
+
 ### Quatre P2P (Q-Native)
+> Coming soon ...
 
+----------
 
+### Quatre wallet (Q-Wallet)
+> Coming soon ...
 
-## Understanding the FOUR Token
-**FOUR** : (BEP20 standard : Binance smart chain) is the native token of the Quatre-finance platform with enormously foreseeable use cases deployed and verifiable at [BScscan](http://bscscan.com).
+----------
+
+## Understanding the QFOUR Token metrics
+**QFOUR** Token (BEP20 : ERC20 standard : Binance smart chain : Ethereum network) is the native token of the QuatreFinance platform with enormously foreseeable use cases deployed and verifiable at [BScscan](http://bscscan.com) : [Etherscan](http://bscscan.com). 
 
 **Name** | **QFOUR Token**
 -------- | ---------------
+**Token Type** | **BEP-20**, **ERC-20**
 **Ticker(Symbol)** | **FOUR**
 **Decimals** | **18**
 **Max Supply** | **500_000_000** x **10** ** **Decimals**
 **Total Supply** | _vary_
 **CurrentSupply** | **Total Supply**
 
-The **FOUR** Token is controlled by smart contract at [[Contract Address]](http://bscscan.com) which is owned by the [[Farmer Contract Address]](http://bscscan.com). The instruction is set at construction time for the farmer can only mint a total lifeTime amount of **_Max Supply_**. The farmer is a bit stricter, never allows token be burnt by anyone but by self with mechanisms a mechanism for creating scarcity to bring greater value to the **FOUR Token**. 
+The **QFOUR** Token : initially emmitted from [[Source Address]](http://bscscan.com) at construction time is housed and mintable by the [[Farmer Contract Address]](http://bscscan.com) only. Total amount of **`FOUR`** the farmer is able to mint in the contract lifeTime cannot exceed amount of **_Max Supply_**. Access control is enforced on _[special functions]()_ like `burn()` and available only to the Farmer controlled by this _[multisignature account](). It however does not include the general public methods specified in _[ERC20 Token standard](). 
 
-### Farmer does not allow to burn token. Why?
-As the farm owner, the farmer needs to have more control on his produce hence the restriction but without sacrificing decentralization, that is, anyone who buys from the farmer is an acceptable valid channel (s) retains the ownership for as long as they wish. In the event of otherwise,   **QFOUR Token** is designed to call for value via its use cases and a special staking algorithm which temporarily mops out token from circulation by usage (i.e NeedDotStaking NDS) as staking increases and similarly emits when unstaked.
-  * #### How it works: 
-  For instance, in the Buy and Sell category, to keep the system healthy, a user who wants to create a seller account is required to have an amount in **FOUR** Token staked with the farmer via a proxy account. When the ```stake()``` is called, it switches the farmer to what we termed **_Sedentary mode_**. This is a state of unavailability that does reduces **totalSupply** by the staked amount. The balance is reflected in the **_allowances_** of farmer to the source contract - balance which is neither spendable nor withdrawable by anyone. 
- Just as the mechanism renders the caller's staked balance inactive for the period as long as the account is active. The only way to retrieve the staked balance is when **proxy account** is ```closeOut()```. In this process, an action is created notifying the farmer. Thereafter, a **_stakedAmt** is forwarded along with the accrued reward to the staker's account. It in-turn increases the amount of token in circulation. One can always verify total **QFOUR** Token in circulation either from the farm or the farmer.
-  This applies only to the **"Pro"** category.
-  Also, it uses a method of recycling
+### Token-Burn
+We employed this mechanism to compiment the methods we have devised for creating scarcity to bring more value to **QFOUR Token**. As the farm owner, the farmer needs to have more control on his produce hence the answer to why and who burns token? **QFOUR Token** is designed to call for value via its use cases and a special staking algorithm which temporarily mops out token from circulation as need increases and similarly emits when unstaked.
 
-`NOTE`: At any given time, **_CurrentSupply_** will always equal **_TotalSupply_**.
+The Quatre team will perform periodic burn on a quarterly basis which will be communicated in our various channels.
+
+#### How it works: 
+In the Buy and Sell category for example, to keep the system healthy, a user who needs to create a seller account is required to have hold `minimumStakeAmount` in **QFOUR** Token unstakeable only via a proxy account that will be generated in the process. When the ```stake``` is called, it switches the farmer to what we termed **_Sedentary mode_**. This is a state of unavailability that does reduces **totalSupply** by the staked amount. The balance is reflected in the **_allowances_** of farmer to the source contract - balance which is neither spendable nor withdrawable. 
+Just as the mechanism renders the caller's staked balance inactive for the period as long as their proxy account is active, the only way to retrieve the staked balance is when **proxy account** is `closeOut`. To perform this action, user must first put the proxy in an inactive mode, then `unstake` and `closeOut` is performed in a single call. Thereafter, the **`stakedAmount`** is forwarded along with the accrued reward to the staker's account. It in-turn increases the amount of token in circulation with the **`stakedAmount`**. One can always verify total **QFOUR** Token in circulation either from the source or the farmer.
+
+`NOTE`: At any given time, **`_CurrentSupply_`** will always equal **`_TotalSupply_`**.
 
 #### Uses of **QFOUR Token**.
 **QFOUR Token** will be used for but not limited to such as:
-- For fee in some, not all Quatre-finance products.
+- Paying for fee in some, not all Quatre-finance products.
 - To keep the ecosystem healthy via intermediate programs such as staking.
-- Gas to keep the proxies running.
-    ...
-    
-    
-
+- Gas that keep the proxy running.
 
 
 
