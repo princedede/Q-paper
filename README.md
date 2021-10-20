@@ -173,7 +173,7 @@ This category operates similar to the usual way of buy and selling crypto assets
 
 ----------
 
-## Understand the QFOUR Token metrics
+## Understand QFOUR Token metrics
 **QFOUR** Token (BEP20 : ERC20 standard : Binance smart chain : Ethereum network) is the native token of the QuatreFinance platform with enormously foreseeable use cases deployed and verifiable at [BScscan](http://bscscan.com) : [Etherscan](http://bscscan.com). 
 
 _fig. 1.1_
@@ -256,8 +256,9 @@ Allocations in tables below have their shares from the intial maximum supply of 
 
 - Sales allocation
 _fig. 2.0_
+
 **Allocated to** | **Percentage** | **Amount** _in QFT_ | **Price** _(in USD)_ | **Amount** _(in USD)_
--------- | ---------------------- | ------------------- | -------------------- | ---------------------
+---------------- | -------------- | ------------------- | -------------------- | ------------------
 **Strategic** _(Private Sale)_ | **6** | **30, 000, 000** | **0.045** | **1, 350, 000**
 **Seed Sale** _(Angel Investor)_ | **9** | **45, 000, 000** | **0.035** | **1, 575, 000**
 **LaunchPad** | **7** | **35, 000, 000** | **0.075** | **2, 625, 000**
@@ -266,8 +267,9 @@ _fig. 2.0_
 
 - Other allocations
 _fig. 2.1_
+
 **Allocated to** | **Percentage** | **Amount** _in QFT_
--------- | ---------------------- | -------------------
+---------------- | -------------- | -------------------
 **Aidrops** | **1** | **5, 000, 000**
 **Ecosystem growth** _(includes marketing)_ | **31** | **155, 000, 000**
 **Team and Advisors** | **20** | **100, 000, 000**
@@ -276,6 +278,7 @@ _fig. 2.1_
 
 #### Funds allocation projection
 _fig. 3.0_
+
 **Marketing** _9%_ | **Development** _58%_ | **Operation** _21%_ | **Team** _12%_
--------- | ---------------------- | ---------------------------- | -------------- 
+------------------ | --------------------- | ------------------- | -------------- 
 
