@@ -52,7 +52,7 @@ This is an inherently-interesting blockchain feature that Quatre-finance builds 
 
 ### Quatre-four (Q-core)
 
-A pool four-man peer-to-peer short-term lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to Quatre-four will be a lender and same time a borrower. So if you're looking to lend only, please refer to the [Q-Lend section](https://link-here). Users must have at least, an amount in _[minimumstakingAmount]()_ given via approval in favor of the _[factory contract]()_. It will be deducted from the source then added to their stake balance - tie-locked to the _[proxy]()_ throughout the _[quat period]()_. Subsequently, balance is automatically available to unstake.
+A pool four-man peer-to-peer short-term lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to Quatre-four will be a lender and same time a borrower. So if you're looking to lend only, please refer to the [Q-Lend section](https://link-here). Users must have at least, an amount in _[minimumstakingAmount]()_ given via approval in favor of the _[factory contract]()_. It will be deducted from the source then added to their stake balance - tie-locked to the _[factory]()_ throughout the _[quat period]()_. Subsequently, balance is automatically available to unstake.
 > `NOTE:` After the *quat period* has ended, reward will stop counting. 
 
 [fig 1.0]()
@@ -66,43 +66,100 @@ BtoS | base | exponential | denominator | value | | StoB | base | exponential | 
 
 Exmaple: Assume (in order of first-come) Alice, Bob, Peter and John joined a pool of **`4 BNB`**, each of which is not aware of another's identity. Alice being the first, selects **`4`** from the **`BtoS`** category. At this point, Alice is required to forward along with the call - an amount of **`4 BNB`** only if the current pool is unfilled hence a new instance of pool with Alice's preferences is launched and she is added. The final value of each consecutive preceeding number in the list `(fig. 1.0)` is an unsigned integer representing 10 in exponential of 18 multiplied by the denominator presented in smallest unit of BNB. Alice will retain the first position in the current **`BtoS[4]`** pool. Every subsequent user that joins the pool is treated in the order of first-in-first-out (FIFO) basis. Soon as the expected pool participants is achieved, the total pool amount is immediately available to the first participant to withdraw, in this case **Alice**.
 
-What it simply mean is that, the [Proxfactory](https://something.here) creates a single pool in any of the selected category that can only be filled with four persons. While the pool has slots, anyone is free to join, perhaps the protocol unanimously add user to a free slot in the category they have selected. When the pool is completed, a flag is raised which sets an activation time allowing the first participant to withdraw the total pool amount. To access the fund, Alice will provide collateral base on the set collateral factor as at that time. She will have the possession of the total pool amount for period not greater than 7 days after which fund is made available to the next on the queue. `Note`: We do not track what Alice uses this fund for but in the future, we plan to integrate more investment tools in the protocol. It is a mutual financial relationship among four persons who have by implied reason agreed to collectively provide funds to finance one another at a lending rate (set by the ecosystem users) and share profits in equal ratio. Every participants in the pool is lender and same time borrower. The Quatre protocol ensures that no potential internal loss is incurred in this relationship by enforcing necessary and some strict measures but does not guarantee profit from business or fiancial engagement (s) user may diversify into with the fund. On the repayment due date (plus grace period if any), if the borrower defaults, a liquidation floor is open but restricted only to any of the three remaining members otherwise, the pool is updated and available to the next on queue i.e Bob. [Read and understand how the liquidation works](). When Alice repays, it comes with interest recorded in favor of all participants. The circle continues until John's session is completed. For more information, please see the [FAQ section](). Soon as the round is completed (i.e 28 days period)
+What it simply mean is that, the [Proxfactory](https://something.here) creates a single pool in any of the selected category that can only be filled with four persons. While the pool has slots, anyone is free to join, perhaps the protocol unanimously add user to a free slot in the category they have selected. When the pool is completed, a flag is raised which sets an activation time allowing the first participant to withdraw the total pool amount. To access the fund, Alice will provide collateral base on the set collateral factor as at that time. She will have the possession of the total pool amount for period not greater than 7 days after which fund is made available to the next on the queue. `Note`: We do not track what Alice uses this fund for but in the future, we plan to integrate more investment tools in the protocol. It is a mutual financial relationship among four persons who have by implied reason agreed to collectively provide funds to finance one another at a lending rate (set by the ecosystem users) and share profits in equal ratio. Every participants in the pool is lender and same time borrower. The Quatre protocol ensures that no potential internal loss is incurred in this relationship by enforcing necessary and some strict measures but does not guarantee profit from business or fiancial engagement (s) user may diversify into with the fund. On the repayment due date (plus grace period if any), if the borrower defaults, a liquidation floor is open but restricted only to any of the three remaining members otherwise, the pool is updated and available to the next on queue i.e Bob. [Read and understand how the liquidation works](). When Alice repays, it comes with interest recorded in favor of all participants. The circle continues until John's session is completed. For more information, please see the [FAQ section](). Soon as the round is completed (i.e 28 days period), the interest(s) in the pool is aggregrated, shared and distributed equally amongt the four participants
 
-#### How is collateral factor determined?
+**`NOTE :`** _Quatre-finance does not have control over your account or funds. In fact, we have no way to access it_.
 
-### FAQ
+#### In-line benefit
+Some time, it may take a while for the pool to complete since action does not begin until the required quorum is attained, to compliment for this, paeticipants automatically qualify to participate in the Quatre farming where they earn reward at every emitted block for participating in the protocol. Reward is calculated [here](). However, this is not to be confused with reward for staking as the base rate for the former is lesser than latter. Benefits come in both ways: _interest for lending to others_, _benefits of using the pool to generate more asset_, _reward for participating in the protocol_, and _staking benefit_,
+
+#### The goal
+We aim to enable anyone from any part of the globe to access a short-term moderate amount of loan by providing a quota with promise to return (without default) the full amount together with accrued interest, and direct it to any profit-yielding endeavor (s) or use for trading on exchange (s) of their choice while at the same being a lender while being part of the decision maker. We cannot also rule out the reward aspect where participants are rewarded for staking together with participation in keeping the protocol healthy. 
+
+#### FAQ - Q-core
+
 - **What is a session?**
 This is a period of not greater than 7 days i.e period from the time fund was released to repayment period.
 
-**`NOTE :`** _Quatre-finance does not have control over your account or funds. In fact, we have no way to access it._
+- **What is a period**
+Aggregate time (days) it takes to complete a round i.e 28 days.
 
-#### In-line benefit
-Some time, it may take a while for the pool to complete since action does not begin until the required quorum is attained, to compliment for the lag, we automatically qualify user to participate in the Quatre farming where they earn reward at every emitted block for participating in the protocol. Reward is calculated [here](). However, this is not to be confused with reward for staking as the base rate for the former is lesser than latter.
+- **How is collateral factor determined?**
+QuatreFinance is decentralized hence every participants in the protocol is given opportunity to parcipate in decision making. QuatreFinance operaes a governance model that allows users of the platform to participate in upgrade process by voting for what they wish to be implemented in the protocol. Such process requies that user has voting power prior to voting which is weighted in the platform native asset. After voting is completed, the factory is updated with the proposed interest rate.
 
-#### The goal
-We aim to enable anyone from any part of the globe to access a short-term moderate amount of loan by providing a quota with promise to return (without default) the full amount together with accrued interest, and direct it to any profit-yielding endeavor (s) or use for trading on exchange (s) of their choice. We cannot also rule out the reward aspect where participants are rewarded for staking together with participation in keeping the protocol healthy.  
+- **How much do I need to join a pool?**
+By specification, there are two major categories an user can choose from thus: `BtoS` and `StoB`. **BtoS** signifies that user will join a pool where they can lend and borrow **BNB** or **ETH** collaterized in stable currency or fiat such as **USDT**. The reverse is to **BtoS** category. Under each of the categories, there are four sub-categories. For `BtoS`: *4 BNB*, *8 BNB*, *12 BNB* and *16 BNB* and `StoB` : *3000*, *6000*, *9000*, *15000*. User who selects any of these categories will have to provide exact amount at the point of joining.
 
-----------
+- **How do I join?**
+    - Have the _[minimumstakingAmount]()_ (in QFT) in your wallet.
+    - Proceed to the Quatre interface and give approval to the factory to spend the minimum amount from your wallet.
+    - If you select any of the `BtoS` category, have the equivalent amount in your wallet else perform step 2 for currency accepted on the interface.
+    - Call the required function.
+
+- **What happens next after I joined?**
+The contract is smart enough to know when the pool is completed. Your fund is safe. Soon as the pool is completed, the total funds in the pool is available for withdraw only to the next person treated in first-in-first-out (FIFO) basis.
+
+- **What if no one join?**
+We built QuatreFinance for the masses and on peer-to-peer trustless and faceless basis hence we believe the timing will become shorter in no time as more people get to know about us. In the event of a lengthy delay, after 6 hours or block based on average block emission on the target network (whichever comes first), user is automatically staged to earn reward based on amount selected for a period. 
+`Note`: This may change in the future as we hope to device better incentive structure for the platform via the community governance.
+
+- **What happens if any of the participants default?**
+Firstly, the protocol ensures to fund is let out unless collateral is provided. If any of the participants defaults in repayment, the protocol will leave the floor open to any of the rest three liquidate the borrower. liquidation sets off borrower's debt with the deposited collateral with additional liquidation fee if any. If balance is left after calculation made and deducted from the collateral, it is sent to the borrower and their position is left blank.  The round continues until a period is achieved. 
+
+-------------------
 
 ### Quatre LandB (Q-LandB)
 
-Similar to **Q-core**, Providers in this category are lenders that singlehandedly provide loans in the amount they wish. Here, we do not have a pool of persons but a fairly one-man who decides when to put his fund in use. The lender sets parameters such as the loan amount, collateral plus the factor, interest rate, duration their funds can be used and a few others. Going by the proxy pattern, the lender owns up to 50% level of control while rest is shared between the proxy and the borrower. We embedded checks that chackmates the activities of both parties ensuring interests are protected. There can only be one borrower in a round. That is, if as an example, the lender set duration to 14 days of use, then no other borrower will be allowed during this period until the current loan is settled. If the borrower defaults payments after the repayment period lapses, the right to liquidate the borrower remains with the lender. While yet not the reapayment period, lender has no means to put the other party in the liquidation state. However, this category does not qualify them for the Quatre farming reward.
+Similar to **Q-core**, Providers in this category are lenders that singlehandedly provide loans in the amount they wish via their personal account residing in the _[proxy]()_. Here, we do not have a pool of persons but a fairly one-man who decides when to put his fund in use. The lender sets parameters such as the loan amount, collateral plus the factor, interest rate, duration their funds can be used and a few other settings. Going by the proxy pattern, the lender owns up to 50% level of control while rest is shared between the proxy and the borrower. We embedded some checks that analyzes the activities of both parties ensuring interests are protected. There can only be one borrower in a round. That is, if as an example, the lender set duration to 14 days of use, then no other borrower will be allowed during this period until the current loan is settled. If the borrower defaults payments after the repayment period lapses, the right to liquidate the borrower remains with the lender. While yet not the reapayment period, lender has no means to put the other party in the liquidation state. However, this category does not qualify them for the Quatre farming reward.
+One can also consider a p2p use case scenario where Bob does not want to sell off his **BNB** but need some stable asset, requests to borrow some from Alice. Because of trust issues in human nature coupled with the fear of not paying back the loan, Alice may be reluctant to grant such request. But with vast improving technology, Alice can set up and account (_[Proxy]()_) on the QuatreFinance _[interface]()_ with the required fund and thereafter refer Bob to his account in the lenders pool.
+
+#### FAQ - Q-LandB
+
+- **What is a proxy account?**
+An account created solely for an user blended with their signatures with owner and control of it. In the case of **Q-LandB**, A proxy administers and manages lending and borrowig relationship between the owner and the borrower.
+
+- **What do I need to set up a proxy account?**
+    - Have the _[minimumstakingAmount]()_ (in QFT) in your wallet.
+    - Have the _[minimum creation fee]()_ in _**BNB**_.
+    - Hit the required button and a proxy is launched for you. The minimum stake amount is deducted from your EOA and staked in favor of the proxy created amount which is locked for as long as the proxy runs. The reward for minimum stake amount accrues as well. 
+    - There is a one-time creation fee which is very minimal with repect to the network it is deployed to.
+
+- **Who updates the Proxy parameters?**
+Owner of course! And that's the initiator. As the initiator, we provide you with detailed information on how to updated any of the upgradeable parameters such as the price, interest rate etc.
+
+- **What if I need to close my account?**
+You are fee to stop your proxy from running at any time. However there two options with which you can do this: 
+    `pause`: You can pause your account so one can perform any buy transaction. But does not unstake the initial minimum stake amount.
+    `closeOut`: Closing your account permanently deactivates your account from the database. Even though the identifier address is visible, yet it cannot perform any transaction again. Before this is done, your initial minimum stake amount is unstaked and sent to your recognized address together with accrued reward to date.
+
+- **Any potential risk involved?**
+Your account (Proxy) hold values hence should be valued and protected. An access to your account (EOA with which youu created it) should be well secured. The proxy is securely built to resist unwanted actions on sensitive settings other than you from external sources but we do not have control over external actions that may be supercharged to it either in the course of owner's negligence or superadded activities from the direct users.
 
 **`NOTE :`** _Quatre-finance does not have control over your account or funds. In fact, we have no way to access it. You own it._
 
 ----------
 
+
 ### Quatre Buy and Sell (Q-BandS)
 
-This category operates similar to the usual way of buy and selling crypto assets except with few dissimilarities and features thus:
+This category operates similar to the usual way of buy and selling crypto assets but with uniques differences and features thus:
 - No centralized exchange or intermediary.
 - No KYC is needed.
-- Seller creates a one-time flexible account (added to the pool of sellers on the Quatre page) that absolutely belongs to them. Flexibility means that it can be added/listed on our partners's exchange for greater visibility. **`Note`** that this may remove the **no-kyc** feature. Anyone can be referred to directly buy from same seller repeatedly.
-- Prices are solely determined and set by the seller. Our protocol handles all necessary and underlying calculations, checks and balances for absolute precisions.
+- Seller creates a one-time flexible account (added to the pool of sellers on the Quatre page) that absolutely belongs to them. Flexibility means that it can be added/listed on our partners's exchange for greater visibility(`coming soon...`). **`Note`**: this may remove the **no-kyc** feature. Anyone can be referred to directly buy from same seller repeatedly.
+- Prices are solely determined and set by the seller. Our protocol handles all necessary and underlying calculations, checks and balances for achieving precision.
 - Free from CEX's regulations and demands.
+- Your funds stay with you.
+- Sell as much as you want.
+- Withdraw as much as want.
 
-For more information, see the [FAQ Section]().
-**`Note:`** To operte any of the categories, user must possess the [minimumStakeAmount]() in **`QFOUR` Token** (given as an allowance in favor of the [Q-factory]())in the external account they're using to interact with the protocol at that time. Be sure to read more on our staking mechanism.
+#### FAQ - Q-BandS
+
+- **What do I need to set up a Q-BandS account?**
+    - Have the _[minimumstakingAmount]()_ (in QFT) in your wallet.
+    - Have the _[minimum creation fee]()_ in _**BNB**_.
+    - Hit the required button and a proxy is launched for you. The minimum stake amount is deducted from your EOA and staked in favor of the proxy created amount which is locked for as long as the proxy runs. The reward for minimum stake amount accrues as well. 
+    - There is a one-time creation fee which is very minimal with repect to the network it is deployed to.
+
 
 ---------
 
@@ -116,36 +173,40 @@ For more information, see the [FAQ Section]().
 
 ----------
 
-## Understanding the QFOUR Token metrics
+## Understand the QFOUR Token metrics
 **QFOUR** Token (BEP20 : ERC20 standard : Binance smart chain : Ethereum network) is the native token of the QuatreFinance platform with enormously foreseeable use cases deployed and verifiable at [BScscan](http://bscscan.com) : [Etherscan](http://bscscan.com). 
+
+_fig. 1.1_
 
 **Name** | **QFOUR Token**
 -------- | ---------------
 **Token Type** | **BEP-20**, **ERC-20**
-**Ticker(Symbol)** | **FOUR**
+**Ticker(Symbol)** | **QFT**
 **Decimals** | **18**
 **Max Supply** | **500_000_000** x **10** ** **Decimals**
 **Total Supply** | _vary_
-**CurrentSupply** | **Total Supply**
+**CurrentSupply** | **Total Supply** _(may vary)_
 
-The **QFOUR** Token : initially emmitted from [[Source Address]](http://bscscan.com) at construction time is housed and mintable by the [[Farmer Contract Address]](http://bscscan.com) only. Total amount of **`FOUR`** the farmer is able to mint in the contract lifeTime cannot exceed amount of **_Max Supply_**. Access control is enforced on _[special functions]()_ like `burn()` and available only to the Farmer controlled by this _[multisignature account](). It however does not include the general public methods specified in _[ERC20 Token standard](). 
+The **QFOUR Token** : initially emmitted from [[Source Address]](http://bscscan.com) at construction time is housed mintable and burnable only by the [[Farm Contract Address]](http://bscscan.com). Total amount of **`QFT`** the farm is able to mint in the contract lifeTime cannot exceed amount of **_Max Supply_** (See fig. 1.1). Access control is enforced on _[special functions]()_ like `burn()` available only to the Farmer is controlled by this _[multisignature account]()_. Such control however does not include the general public methods specified in _[ERC20 Token standard]()_. **QFOUR Token** is built with some internal safety and checks to reduce the risk of losing funds - please refert to our _[API section]()_.
 
 ### Token-Burn
-We employed this mechanism to compiment the methods we have devised for creating scarcity to bring more value to **QFOUR Token**. As the farm owner, the farmer needs to have more control on his produce hence the answer to why and who burns token? **QFOUR Token** is designed to call for value via its use cases and a special staking algorithm which temporarily mops out token from circulation as need increases and similarly emits when unstaked.
+We employed this mechanism to compiment the methods we have devised for creating scarcity to bring more value to **QFOUR Token**. As the farm owner, the farmer needs to have more control on what he produces and the quantity in circulation hence the answer to why and who burns token? **QFT** is designed to call for value via its use cases and a special staking algorithm which temporarily mops out token from circulation as need increases and similarly emits when unstaked. Such need is tied to virtually all QuatreFinance products.
 
-The Quatre team will perform periodic burn on a quarterly basis which will be communicated in our various channels.
+The Quatre team will perform periodic burn on a quarterly basis or as the team deem fit which will be communicated in our various channels.
 
 #### How it works: 
-In the Buy and Sell category for example, to keep the system healthy, a user who needs to create a seller account is required to have hold `minimumStakeAmount` in **QFOUR** Token unstakeable only via a proxy account that will be generated in the process. When the ```stake``` is called, it switches the farmer to what we termed **_Sedentary mode_**. This is a state of unavailability that does reduces **totalSupply** by the staked amount. The balance is reflected in the **_allowances_** of farmer to the source contract - balance which is neither spendable nor withdrawable. 
-Just as the mechanism renders the caller's staked balance inactive for the period as long as their proxy account is active, the only way to retrieve the staked balance is when **proxy account** is `closeOut`. To perform this action, user must first put the proxy in an inactive mode, then `unstake` and `closeOut` is performed in a single call. Thereafter, the **`stakedAmount`** is forwarded along with the accrued reward to the staker's account. It in-turn increases the amount of token in circulation with the **`stakedAmount`**. One can always verify total **QFOUR** Token in circulation either from the source or the farmer.
+In the Buy and Sell category for example, to keep the system healthy, a user who needs to create a seller account is required to have hold `minimumStakeAmount` in **QFT** unstakeable only via a proxy account that will be generated in the process. When the ```stake``` is called, it switches the farmer to what we termed **_Sedentary mode_**. This is a state of unavailability that does reduces **totalSupply** by the staked amount. The balance is reflected in the **_allowances_** of farmer to the source contract - balance which is neither spendable nor withdrawable. 
+Just as the mechanism renders the caller's staked balance inactive for the period as long as their proxy account is active, the only way to retrieve the staked balance is when **proxy account** is `closeOut`. To perform this action, user must first put the proxy in an inactive mode, then `unstake` and `closeOut` is performed in a single call. Thereafter, the **`stakedAmount`** is forwarded along with the accrued reward to the staker's EOA. It in-turn increases the amount of token in circulation with the **`stakedAmount`**. One can always verify total **QFOUR** Token in circulation from the source totalSupply.
 
-`NOTE`: At any given time, **`_CurrentSupply_`** will always equal **`_TotalSupply_`**.
+`NOTE`: At some point, **`_CurrentSupply_`** may differ from **`_TotalSupply_`**. This is not however an anomally. Activation of fanTip will cause the two variables to differ.
 
 #### Uses of **QFOUR Token**.
 **QFOUR Token** will be used for but not limited to such as:
 - Paying for fee in some, not all Quatre-finance products.
+- For voting and making decisions in the QuatreFinance ecosystem.
 - To keep the ecosystem healthy via intermediate programs such as staking.
-- Gas that keep the proxy running.
+- For incentivizing participating in the protocol.
+- Gas that keep the proxies running.
 
 
 
