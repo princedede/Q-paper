@@ -6,25 +6,26 @@
 ---------------------
 
 ### What is Quatre-Finance (QFOUR)?
-Quatre-finance is a platform for decentralized digital services that aims not to completely uninstall the application world but to continually re-emphasize the need for true decentralization by building decentralized products tailored to individual needs putting them in complete control of their funds and/or investments. Our core product and ideology is centred around creating a platfiorm for low-income to high income grade users to easily access funds via peer-to-peer system.
+Quatre-finance is a platform for decentralized digital services that aims not to completely uninstall the application world but to continually re-emphasize the need for true decentralization while building decentralized products tailored to individual needs putting them in complete control of their funds and/or investments. Our core product and ideology is centred around creating a platfiorm for low-income to high income grade users to easily access funds via peer-to-peer system. Our incentivized program (s) allow investors, liquidity provider and participants in the network to make more from their committed funds, time and participation.
 
-Our mission is to provide tools for that create and manages financial relationship between lenders and borrowers without either parties having to know or trust who they are dealing with in a manner that regards the right of both parties, give them equal control and everyone is happy in the end. 
+Our mission is to provide build decentralized products that create and manages financial relationship between parties to trade (lenders and borrowers, buyers and sellers) exempting an intermediary, without either of the parties having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
 
 ### Quatre-finance underlying technology.
-The protocol will exist both on the Binance smart chain and Ethereum blockchain technologies.
+The protocol will exist both on the Binance smart chain and Ethereum blockchain technologies. The former ranks first on our list of preferences.
 
 ### Why Binance Smart Chain?
-Every EVM compatible technologies have one thing that differentiates them from one another. We chose Binance for a couple of reasons. Some of which states: 
+Every EVM compatible technologies have one or more uniqueness (es). We chose Binance for a couple of reasons. Some of which are thus: 
 
-* It is Ethereum virtual machines compatible i.e it capable of executing smart contracts instructions which we deem suitable for implemeting our backend.
+* It is Ethereum virtual machines compatible. That is, it is capable of executing smart contracts instructions which we deem suitable for implemeting our backend.
 * Binance Smart Chain (BSC) is preferred for its considerably low transaction fees.
 * BSC network encourages Borderless decentralized finance (DeFi) that allows anyone around the globe with an internet service to acceess our services.
-* Its performance is suitable for mass adoption.
+* Among others, its performance is suitable for mass adoption.
 
 Leveraging on the use cases of blockchain technology such as the distributive, permissionless and immutability features via smart contract architecture, we established Quatre-finance protocol that inherits the modern blockchain attributes with customised rules.
 
 ###  Highly Decentralized
-Even with some decentralized finance platforms, you're still at the mercy of someone. At Quatre-finance, you decide which way to go if your decision is fairly reasonable enough. 
+Even with some decentralized finance platforms, you're still at the mercy of someone. At Quatre-finance, you decide which way to go: if your decision is fairly reasonable enough regarding the rights of your counterparties.
+
 Our products and core value will always consider a four-sided properties thus:
 - Own it.
 - control it.
@@ -32,7 +33,7 @@ Our products and core value will always consider a four-sided properties thus:
 - trust less.
 
 #### Own it
-Quatre products gives the fulfilment of owning it. Accessility to your funds are blended with your signature and you don't have to be at the mercy any centralized exchange platform to bring in or take take out your funds. We build it : you own it.
+Quatre products gives the fulfilment of ownership. Most of our products are (and will be) designed to brings you ownership experience. Accessility to your funds are blended with your signature and you don't have to be at the mercy of any centralized exchange platform to bring in or take take out your funds. We build it : you own it.
 
 #### Control it
 > Knowing you're in control is the first assurance of security.
@@ -40,10 +41,10 @@ Quatre products gives the fulfilment of owning it. Accessility to your funds are
 Control is preceded by ownership. In fact they go hand in hand. The Quatre protocol brings you a high level of control over your assets/funds. If you engage in any of the Quatre-finance's p2p products, control is mutual while you also retain a good amount of ownership.
 
 #### Be fair
-We believe in fair dealings. While control and ownership belongs to a user, our protocol ensures that other parties involved with you in any transaction are fairly treated without jeopardizing your need for control.
+We believe in fair dealings. While control and ownership belongs to the user, we on the fair side ensures that counterparties in any transaction are fairly treated without jeopardizing your need for control.
 
 #### Trust less
-This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to transact without fear. Quatre protocol gives you rest of mind without knowing the identity of the other party.
+This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to make transact with him. Quatre protocol gives you rest of mind even while the identity of the other party is preserved.
 
 ----------------------------------------------------------------
 
@@ -51,7 +52,7 @@ This is an inherently-interesting blockchain feature that Quatre-finance builds 
 
 ### Quatre-four (Q-core)
 
-A pool four-man peer-to-peer short-term lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to Quatre-four will be a lender and same time a borrower. So if you're looking to lend, please refer to the [Q-Lend section](https://link-here). Users must have at least, an amount in _[minimumstakingAmount]()_ given via approval in favor of the _[factory contract]()_. It will be deducted from the source then added to their stake balance, tie-locked to the _[proxy]()_ throughout the _[quat period]()_. Subsequently, balance is automatically available to unstake.
+A pool four-man peer-to-peer short-term lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to Quatre-four will be a lender and same time a borrower. So if you're looking to lend only, please refer to the [Q-Lend section](https://link-here). Users must have at least, an amount in _[minimumstakingAmount]()_ given via approval in favor of the _[factory contract]()_. It will be deducted from the source then added to their stake balance - tie-locked to the _[proxy]()_ throughout the _[quat period]()_. Subsequently, balance is automatically available to unstake.
 > `NOTE:` After the *quat period* has ended, reward will stop counting. 
 
 [fig 1.0]()
@@ -63,9 +64,15 @@ BtoS | base | exponential | denominator | value | | StoB | base | exponential | 
 12 | 10 | 18 | 0.000000000000000001 BNB | 4 BNB | | 9000 | 10 | 1 | base x base asset's decimals | 9000 x denomination
 20 | 10 | 18 | 0.000000000000000001 BNB | 4 BNB | | 20000 | 10 | 1 | base x base asset's decimals | 20000 x denomination
 
-Exmaple: Assume (in order of first-come) Alice, Bob, Peter and John joined a pool of **`4 BNB`**, each of which is not aware of another's identity. Alice being the first, selects **`4`** from the **`BtoS`** category. At this point, Alice is required to forward along with the call - an amount of **`4 BNB`** only if the current pool is unfilled hence a new instance of pool with Alice's preferences is launched and she is added. The final value of each consecutive preceeding number in the list is an unsigned integer representing 10 in exponential of 18 multiplied by the denominator presented in smallest unit of BNB. Alice will retain the first position in the current **`BtoS[4]`** pool. Every subsequent user that joins the pool is treated in the order of first-in-first-out (FIFO) basis. Soon as the expected pool participants is achieved, the total pool amount is immediately available to the first participant to withdraw, in this case **Alice**.
+Exmaple: Assume (in order of first-come) Alice, Bob, Peter and John joined a pool of **`4 BNB`**, each of which is not aware of another's identity. Alice being the first, selects **`4`** from the **`BtoS`** category. At this point, Alice is required to forward along with the call - an amount of **`4 BNB`** only if the current pool is unfilled hence a new instance of pool with Alice's preferences is launched and she is added. The final value of each consecutive preceeding number in the list `(fig. 1.0)` is an unsigned integer representing 10 in exponential of 18 multiplied by the denominator presented in smallest unit of BNB. Alice will retain the first position in the current **`BtoS[4]`** pool. Every subsequent user that joins the pool is treated in the order of first-in-first-out (FIFO) basis. Soon as the expected pool participants is achieved, the total pool amount is immediately available to the first participant to withdraw, in this case **Alice**.
 
-What it simply mean is that, the [Proxfactory](https://something.here) creates a single pool in any of the selected category that can only be filled with four persons. While the pool has slots, anyone is free to join, perhaps the protocol unanimously add user to a free slot in the category they have selected. When the pool is completed, a flag is raised which sets an activation time allowing the first participant to withdraw the total pool amount. To access the fund, Alice will provide collateral base on the set collateral factor as at that time. She will have the possession of the total pool amount for period not greater than 7 days after which fund is made available to the next on the queue. It is a mutual financial relationship among four persons who have by implied reason agreed to collectively provide funds to finance one another at a prevailing market lending rate and share profits in equal ratio. Every participants in the pool is lender and same time borrower. The Quatre protocol ensures that no potential loss is incurred in this relationship by enforcing necessary and some strict measures but does not guarantee profit from business or fiancial engagement (s) user may diversify into with the fund. On the repayment due date (plus grace period if any), if the borrower defaults, a liquidation floor is open but restricted only to any of the three remaining members otherwise, the pool is updated and available to the next on queue i.e Bob. [Read and understand how the liquidation works](). When Alice repays, it comes with interest recorded in favor of all participants. The circle continues until John's is completed. For more information, please see the [FAQ section]().
+What it simply mean is that, the [Proxfactory](https://something.here) creates a single pool in any of the selected category that can only be filled with four persons. While the pool has slots, anyone is free to join, perhaps the protocol unanimously add user to a free slot in the category they have selected. When the pool is completed, a flag is raised which sets an activation time allowing the first participant to withdraw the total pool amount. To access the fund, Alice will provide collateral base on the set collateral factor as at that time. She will have the possession of the total pool amount for period not greater than 7 days after which fund is made available to the next on the queue. `Note`: We do not track what Alice uses this fund for but in the future, we plan to integrate more investment tools in the protocol. It is a mutual financial relationship among four persons who have by implied reason agreed to collectively provide funds to finance one another at a lending rate (set by the ecosystem users) and share profits in equal ratio. Every participants in the pool is lender and same time borrower. The Quatre protocol ensures that no potential internal loss is incurred in this relationship by enforcing necessary and some strict measures but does not guarantee profit from business or fiancial engagement (s) user may diversify into with the fund. On the repayment due date (plus grace period if any), if the borrower defaults, a liquidation floor is open but restricted only to any of the three remaining members otherwise, the pool is updated and available to the next on queue i.e Bob. [Read and understand how the liquidation works](). When Alice repays, it comes with interest recorded in favor of all participants. The circle continues until John's session is completed. For more information, please see the [FAQ section](). Soon as the round is completed (i.e 28 days period)
+
+#### How is collateral factor determined?
+
+### FAQ
+- **What is a session?**
+This is a period of not greater than 7 days i.e period from the time fund was released to repayment period.
 
 **`NOTE :`** _Quatre-finance does not have control over your account or funds. In fact, we have no way to access it._
 
@@ -145,3 +152,7 @@ Just as the mechanism renders the caller's staked balance inactive for the perio
 ### Ways to Earn With Quatre-finance
 * 
 
+
+### FAQ
+- **What is a session?**
+This is a period of not greater than 7 days i.e period from the time fund was released to repayment period.
