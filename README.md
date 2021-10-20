@@ -5,7 +5,7 @@
 
 ---------------------
 
-### What is Quatre-Finance (QFOUR)?
+### What is Quatre-Finance?
 Quatre-finance is a platform for decentralized digital services that aims not to completely uninstall the application world but to continually re-emphasize the need for true decentralization while building decentralized products tailored to individual needs putting them in complete control of their funds and/or investments. Our core product and ideology is centred around creating a platfiorm for low-income to high income grade users to easily access funds via peer-to-peer system. Our incentivized program (s) allow investors, liquidity provider and participants in the network to make more from their committed funds, time and participation.
 
 Our mission is to provide build decentralized products that create and manages financial relationship between parties to trade (lenders and borrowers, buyers and sellers) exempting an intermediary, without either of the parties having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
