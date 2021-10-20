@@ -282,3 +282,12 @@ _fig. 3.0_
 **Marketing** _9%_ | **Development** _58%_ | **Operation** _21%_ | **Team** _12%_
 ------------------ | --------------------- | ------------------- | -------------- 
 
+
+-------------------------------
+
+### Roadmaps
+Summary of a detailed blueprint serving as guidance for the QuatreFinance team. More like an activity and preference list to for us.
+
+2020 | March | April | May | June | July | August | September | Octobre | November | December
+---- | ----- | ----- | --- | ---- | ---- | ------ | --------- | ------- | -------- | --------
+ | Idea, problem analysis | Problem statement draft, solution documentation and plan | Iitemize Solution research
