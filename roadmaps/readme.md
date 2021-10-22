@@ -1,6 +1,6 @@
 
 ### Roadmaps
-Summary of a detailed blueprint serving as guidance for the QuatreFinance team. More like an activity and preference list to for us.
+Summary of a detailed blueprint serving as guidance for the QuatreFinance team. More like an activity and target list to us.
 
 2020 | Q1 | Q2 | Q3 | Q4
 ---- | -- | -- | -- | -- 

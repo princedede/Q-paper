@@ -15,9 +15,21 @@ we can conclude that Alice may not be as financially bouyant as Bob. This is the
 #### Deep dive into Quatrefinance:
 
 - **[INTRO Section](https://github.com/Quatre-Finance/Q-paper/blob/main/INTRO.md#what-is-quatre-finance)**
-- **[Q_Core](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md#)**
-- **[Q_LandB](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
-- **[Q_BandS](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
-- **[Q_P2p](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)** : Coming soon...
-- **[Q_Wallet](https://github.com/Quatre-Finance/Q-paper/blob/main/q_wallet/Q_p2p.md#quatre-wallet-q-wallet)** : Coming soon...
-- **[Q_Gov](https://github.com/Quatre-Finance/Q-paper/blob/main/quatre_gov/Q_Master.md#quatre-governance)** : Coming soon...
+
+- **[Quatre Peer Lending and Borrow](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md#)**
+
+- **[Quatre Sinle Lending and bBorrow](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
+
+- **[Quatre Decentralized Buy and Selling](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
+
+- **[Quatre Farm and Staking ](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/Farm.md#the-farmer)_**
+
+- **[Quatre P2p-Fiat](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)** : _Coming soon..._
+
+- **[Q_Wallet](https://github.com/Quatre-Finance/Q-paper/blob/main/q_wallet/Q_p2p.md#quatre-wallet-q-wallet)** : _Coming soon..._
+
+- **[Quatre Governance](https://github.com/Quatre-Finance/Q-paper/blob/main/quatre_gov/Q_Master.md#quatre-governance)** : _Coming soon..._
+
+- **[Ways To Earn With Quatrefinance](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md#ways-to-earn-with-quatre-finance)_**
+
+- **[Roadmaps](https://github.com/Quatre-Finance/Q-paper/tree/main/roadmaps#roadmaps)_**
