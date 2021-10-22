@@ -1,0 +1,14 @@
+#### Some unique features of QFOUR Token
+----------------------------------------
+
+
+- **`safeSignedTransfer`** : **QFT** uses a dual internal ledger to administer users' balances. Holders can choose to transfer their funds in two ways thus: **`ERC20 transfer standard`** and alternatively **`locked Balance`** (a bit different from the traditional method specified in the _[ERC20 standard]()_). To use this feature, holder of **QFT** must set up a passcode hashed (with _keccak256 hashing algorith_) and stored on-chain. At the point of setting up a lock, the total user's balance is moved to the locked section which sets the regular balance to zero while preserving the total balance. On QuatreFinance protocol, every account on the _[Binance Smart Chain]()_ by defaults inherits two ledger balances with preference given to regular default balance. Let's take scenario where **Bob** receives 1000 `QFT` for the first time. **Bob** obviously does not have lock set. His regular balance is updated to 1000 `QFT` while locked balance is set to 0. Later if Bob decides to transfer 500 `QFT` to **Alice** using the _`safeSignedTransfer`_ function, he is required to provide the lock paramaters. A lock is set up() and balance in **Bob's** regular ledger is moved to the locked section, then 500 `QFT` is unlocked and send to **Alice**.
+
+Subsequent action will be reflected in a new state where _Bob's_ locked balance is now 500 `QFT`, regular becomes 0. If the recipient (_Alice_) already has lock set, her new state will cause her regular balance to remain unchanged while the locked balance is increased by the transferred amount.
+
+A potential use case (An important feature of Q-Wallet) is where an attacker successfully gained access to holder's externally owned account (EOA). If the user already set a lock on their fund and have it reside in the locked ledger balance, it becomes useless for the attacker as they cannot effect a transfer unless the passlock is provided. But in this case, the regular ledger becomes a victim. At any time, a holder can choose to lock the entire balances until they are ready to make another transaction or simply unlock an amount they wish to transfer at that point.
+
+**Note the difference**
+If a holder calls the `safeSignedTransfer` with the correct _'lock'_ and _'amount'_, the value of an _'amount'_ is deducted from the aggregate balance, send to recipient and the aggregate balance left is locked.
+
+Alternately, a holder can use the `lockBalance` to move specific amount to the locked ledger or `unlockBalance` to move an amount to the regular ledger. The traditional _`transfer(sender, recipient, amount)`_ utility simply moves an amount from the sender's regular balance to the recipient's locked balance if they have lock in place otherwise effect change to the regular balance. For more information, please refer to the  _[API section]()_.
