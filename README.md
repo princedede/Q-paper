@@ -18,7 +18,7 @@ we can conclude that Alice may not be as financially bouyant as Bob. This is the
 
 - **[Quatre Peer Lending and Borrow](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md#)**
 
-- **[Quatre Single Lending and bBorrow](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
+- **[Quatre Single Lending and Borrowing](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
 
 - **[Quatre Decentralized Buy and Selling](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
 
