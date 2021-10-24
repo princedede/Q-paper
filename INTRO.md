@@ -26,7 +26,7 @@ Every EVM compatible technologies have one or more uniqueness (es). We chose Bin
 
 * It is Ethereum virtual machines compatible. That is, it is capable of executing smart contracts instructions which we deem suitable for implemeting our backend.
 * Binance Smart Chain (BSC) is preferred for its considerably low transaction fees.
-* BSC network encourages Borderless decentralized finance (DeFi) that allows anyone around the globe with an internet service to acceess our services.
+* BSC network encourages Borderless decentralized finance (DeFi) that allows anyone around the globe with an internet service to access our services.
 * Among others, its performance is suitable for mass adoption.
 
 Leveraging on the use cases of blockchain technology such as the distributive, permissionless and immutability features via smart contract architecture, we established Quatre-finance protocol that inherits the modern blockchain attributes with customised rules.
@@ -44,7 +44,7 @@ Our products and core value will always consider a four-sided properties thus:
 
 
 #### Own it
-Quatre products gives the fulfilment of ownership. Most of our products are (and will be) designed to brings you ownership experience. Accessility to your funds are blended with your signature and you don't have to be at the mercy of any centralized exchange platform to bring in or take take out your funds. We build it : you own it.
+Quatre products gives the fulfilment of ownership. Most of our products are (and will be) designed to brings you ownership experience. Accessility to your funds are hashed with your signature and you don't have to be at the mercy of any centralized exchange platform to bring in or take take out your funds. We build it : you own it.
 
 #### Control it
 > Knowing you're in control is the first assurance of security.
