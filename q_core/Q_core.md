@@ -27,3 +27,6 @@ Some time, it may take a while for the pool to complete since action does not be
 
 #### The goal
 We aim to enable anyone from any part of the globe to access a short-term moderate amount of loan by providing a quota with promise to return (without default) the full amount together with accrued interest, and direct it to any profit-yielding endeavor (s) or use for trading on exchange (s) of their choice while at the same being a lender while being part of the decision maker. We cannot also rule out the reward aspect where participants are rewarded for staking together with participation in keeping the protocol healthy. 
+
+
+**[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
