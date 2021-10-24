@@ -19,7 +19,7 @@ Our mission is to build decentralized protocols that create and manage financial
 ----------------------------
 
 ### Quatre-finance underlying technology.
-The protocol will exist both on the Binance smart chain and Ethereum blockchain technologies. The former ranks first on our list of preferences.
+The protocol will exist both on the Binance smart chain and Avalance network technologies. The former ranks first on our list of preferences even though we strongly consider both techs.
 
 #### Why Binance Smart Chain?
 Every EVM compatible technologies have one or more uniqueness (es). We chose Binance for a couple of reasons. Some of which are thus: 
