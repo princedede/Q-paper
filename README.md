@@ -24,11 +24,11 @@ we can conclude that Alice may not be as financially bouyant as Bob. This is the
 
 - **[Quatre Farm and Staking ](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/Farm.md#the-farmer)**
 
-- **[Quatre P2p-Fiat](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)** : _Coming soon..._
+- **[Quatre P2p-Fiat](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)**
 
-- **[Q_Wallet](https://github.com/Quatre-Finance/Q-paper/blob/main/q_wallet/Q_p2p.md#quatre-wallet-q-wallet)** : _Coming soon..._
+- **[Q_Wallet](https://github.com/Quatre-Finance/Q-paper/blob/main/q_wallet/Q_Wallet.md#quatre-wallet-q-wallet)**
 
-- **[Quatre Governance](https://github.com/Quatre-Finance/Q-paper/blob/main/quatre_gov/Q_Master.md#quatre-governance)** : _Coming soon..._
+- **[Quatre Governance](https://github.com/Quatre-Finance/Q-paper/blob/main/quatre_gov/Q_Master.md#quatre-governance)**
 
 - **[Ways To Earn With Quatrefinance](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md#ways-to-earn-with-quatre-finance)**
 
