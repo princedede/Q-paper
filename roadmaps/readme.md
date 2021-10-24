@@ -39,3 +39,9 @@ Summary of a detailed blueprint serving as guidance for the QuatreFinance team. 
 **7** | Product 2 goes live. | | |
 **8** | Product 3 developmet. | | |
 **9** | Progress evalution. | | |
+
+
+
+
+
+**[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
