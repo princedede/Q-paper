@@ -14,7 +14,7 @@ Quatre-finance is a platform for decentralized digital services that aims not to
 
 Our incentivized program (s) allow investors, liquidity provider and participants in the network to make more from their committed funds, time and participation.
 
-Our mission is to provide build decentralized products that create and manages financial relationship between parties to trade (lenders and borrowers, buyers and sellers) exempting an intermediary, without either of the parties having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
+Our mission is to build decentralized protocols that create and manage financial relationship between parties to trade (lenders and borrowers, buyers and sellers or as the case may be from time to time) exempting an intermediary, with either of the parties not necessarily having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
 
 ----------------------------
 
