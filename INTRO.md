@@ -55,5 +55,5 @@ Control is preceded by ownership. In fact they go hand in hand. The Quatre proto
 We believe in fair dealings. While control and ownership belongs to the user, we on the fair side ensures that counterparties in any transaction are fairly treated without jeopardizing your need for control.
 
 #### Trust less
-This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to make transact with him. Quatre protocol gives you rest of mind even while the identity of the other party is preserved.
+This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to transact with him. Quatre protocol gives you rest of mind even while the identity of the other party is preserved.
 
