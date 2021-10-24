@@ -9,3 +9,6 @@
 - The Quatrefinance team will perform periodic buyBack from the proceed that may be generated from the various products. A certain percentage of the buyBack will be sent to a blackhole and the token is lost forever. We believe this tactic will mop out exceess token from circulation and eventually create scarcity hence higher value.
 
 - Through staking, as users commit their token to earn more from the farmer, the total Supply is decreased simultaneously which announces higher market worth for **QFOUR Token**.
+
+--------------------------
+:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

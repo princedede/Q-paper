@@ -27,3 +27,6 @@ We built QuatreFinance for the masses and on peer-to-peer trustless and faceless
 
 - **What happens if any of the participants default?**
 Firstly, the protocol ensures to fund is let out unless collateral is provided. If any of the participants defaults in repayment, the protocol will leave the floor open to any of the rest three liquidate the borrower. liquidation sets off borrower's debt with the deposited collateral with additional liquidation fee if any. If balance is left after calculation made and deducted from the collateral, it is sent to the borrower and their position is left blank.  The round continues until a period is achieved. 
+
+----------------------------
+:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

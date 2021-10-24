@@ -11,5 +11,6 @@ This category operates similar to the usual way of buy and selling crypto assets
 - Sell as much as you want.
 - Withdraw as much as want.
 
+--------------------------------
 
-**[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
+:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

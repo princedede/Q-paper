@@ -21,3 +21,7 @@ We employed this mechanism to compiment the methods we have devised for creating
 The Quatre team will perform periodic burn on a quarterly basis or as the team deem fit which will be communicated in our various channels.
 
 More information on _[how it works]()_.
+
+----------------------
+
+:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

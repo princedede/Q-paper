@@ -3,5 +3,6 @@
 
 > Coming soon ...
 
+-------------------------
 
-**[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
+:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

@@ -6,3 +6,6 @@ In the Buy and Sell category for example, to keep the system healthy, a user who
 Just as the mechanism renders the caller's staked balance inactive for the period as long as their proxy account is active, the only way to retrieve the staked balance is when **proxy account** is `closeOut`. To perform this action, user must first put the proxy in an inactive mode, then `unstake` and `closeOut` is performed in a single call. Thereafter, the **`stakedAmount`** is forwarded along with the accrued reward to the staker's EOA. It in-turn increases the amount of token in circulation with the **`stakedAmount`**. One can always verify total **QFOUR** Token in circulation from the source totalSupply.
 
 `NOTE`: At some point, **`_CurrentSupply_`** may differ from **`_TotalSupply_`**. This however is not an anomally. Activation of fanTip will cause the two variables to differ.
+
+--------------------------------
+:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

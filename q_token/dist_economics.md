@@ -41,3 +41,7 @@ _fig. 3.0_
 
 **Marketing** _9%_ | **Development** _58%_ | **Operation** _21%_ | **Team** _12%_
 ------------------ | --------------------- | ------------------- | -------------- 
+
+-----------------------------------
+
+:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

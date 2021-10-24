@@ -12,3 +12,6 @@ A potential use case (An important feature of Q-Wallet) is where an attacker suc
 If a holder calls the `safeSignedTransfer` with the correct _'lock'_ and _'amount'_, the value of an _'amount'_ is deducted from the aggregate balance, send to recipient and the aggregate balance left is locked.
 
 Alternately, a holder can use the `lockBalance` to move specific amount to the locked ledger or `unlockBalance` to move an amount to the regular ledger. The traditional _`transfer(sender, recipient, amount)`_ utility simply moves an amount from the sender's regular balance to the recipient's locked balance if they have lock in place otherwise effect change to the regular balance. For more information, please refer to the  _[API section]()_.
+
+-------------------
+:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
