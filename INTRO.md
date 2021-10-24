@@ -31,6 +31,13 @@ Every EVM compatible technologies have one or more uniqueness (es). We chose Bin
 
 Leveraging on the use cases of blockchain technology such as the distributive, permissionless and immutability features via smart contract architecture, we established Quatre-finance protocol that inherits the modern blockchain attributes with customised rules.
 
+#### Why Avalanche network?
+
+Take a look at the following quoted from **[Avalanche](https://docs.avax.network/)**: 
+> A key difference between Avalanche and other decentralized networks is the consensus protocol. Over time, people have come to a false understanding that blockchains have to be slow and not scalable. The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput without compromising decentralization.
+
+We have consider leveraging the aforementioned potentials of the Avalanche platform to compliment our intuition. 
+
 -----------------------
 
 ###  Highly Decentralized
