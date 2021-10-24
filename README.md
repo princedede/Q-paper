@@ -22,7 +22,7 @@ we can conclude that Alice may not be as financially bouyant as Bob. This is the
 
 - **[Quatre Decentralized Buy and Selling](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
 
-- **[Quatre Farm and Staking ](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/Farm.md#the-farmer)_**
+- **[Quatre Farm and Staking ](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/Farm.md#the-farmer)**
 
 - **[Quatre P2p-Fiat](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)** : _Coming soon..._
 
@@ -30,9 +30,9 @@ we can conclude that Alice may not be as financially bouyant as Bob. This is the
 
 - **[Quatre Governance](https://github.com/Quatre-Finance/Q-paper/blob/main/quatre_gov/Q_Master.md#quatre-governance)** : _Coming soon..._
 
-- **[Ways To Earn With Quatrefinance](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md#ways-to-earn-with-quatre-finance)_**
+- **[Ways To Earn With Quatrefinance](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md#ways-to-earn-with-quatre-finance)**
 
-- **[Roadmaps](https://github.com/Quatre-Finance/Q-paper/tree/main/roadmaps#roadmaps)_**
+- **[Roadmaps](https://github.com/Quatre-Finance/Q-paper/tree/main/roadmaps#roadmaps)**
 
 --------------------------------------
 
