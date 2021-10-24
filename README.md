@@ -33,3 +33,9 @@ we can conclude that Alice may not be as financially bouyant as Bob. This is the
 - **[Ways To Earn With Quatrefinance](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md#ways-to-earn-with-quatre-finance)_**
 
 - **[Roadmaps](https://github.com/Quatre-Finance/Q-paper/tree/main/roadmaps#roadmaps)_**
+
+--------------------------------------
+
+### HOW TO CONTRIBUTE TO THIS DOCUMENT
+
+Available shortly!
