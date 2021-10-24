@@ -8,7 +8,7 @@ Quatre-finance is a platform for decentralized digital services that aims not to
 
 - Traders looking to borrow on a short-term basis, can join the Q-core pool, move it to exchange to make more profits leveraging on their existing portfolio as collateral. In this pool, they also become a lender.
 
-- With Quatrefinance decentralized lending protocol (Q-Lend), fund owners who wish to play safe and retain full ownership and control of their funds can unilaterally set up (from our proxy-based) a public - private inclined exchange for themselves where they can lend any BEP20 or AVAX compatible assets to others at interest they're willing to give it out. The goal is to create a competitive interest atmostphere where lenders give out loan at a rate they are most convenient with. 
+- With Quatrefinance decentralized lending protocol (Q-Lend), fund owners who wish to play safe and retain full ownership and control of their funds can unilaterally set up (from our proxy-based) a public - private inclined exchange for themselves where they can lend any BEP20 or ERC20 compatible assets to others at interest they're willing to give it out. The goal is to create a competitive interest atmostphere where lenders give out loan at a rate they are most convenient with. 
 
 - Q-BandS gives benefits similar to that of _**Q-Lend**_ when anyone runs the proxy-based account that allows them to sell crypto to anyone directly without a third party involvement. See the _[Q-Lend Section](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)_
 
