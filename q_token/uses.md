@@ -7,3 +7,4 @@
 - To keep the ecosystem healthy via intermediate programs such as staking.
 - For incentivizing participating in the protocol.
 - Gas that keep the proxies running.
+- Having **QFT** gives in wallet gives the holder right to vote for protocol upgrade. Holder will be able to participate in voting via the governance channel (Q-Matser). 
