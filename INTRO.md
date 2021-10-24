@@ -57,3 +57,4 @@ We believe in fair dealings. While control and ownership belongs to the user, we
 #### Trust less
 This is an inherently-interesting blockchain feature that Quatre-finance builds upon. With this, Alice does not need to know or have Bob's trust in order to transact with him. Quatre protocol gives you rest of mind even while the identity of the other party is preserved.
 
+**[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
