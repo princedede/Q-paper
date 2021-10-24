@@ -12,3 +12,7 @@ The maximum supply of **QFOUR Token** is pre-minted to the Farmer at constructio
 - Unstake their **QFT**.
 
 Majority of the functions are administative. They can only be called by an authorized address designated to the **[Quatre multisig account]()** which may later be transformed to a governance account. Some of these administative utilities are geared towards giving the farmer access to administer staking, perform burn, toggle token movement switch in the event that may warrant it hence the transfer may be paused where in some emergency situation. The decision and power to pause or unpause transfer is stripped from the deployer and is given to the multisig address(later to governance) to preserve trust. 
+
+
+
+**[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
