@@ -36,6 +36,6 @@ we can conclude that Alice may not be as financially bouyant as Bob. This is the
 
 --------------------------------------
 
-### HOW TO CONTRIBUTE TO THIS DOCUMENT
+<!-- ### HOW TO CONTRIBUTE TO THIS DOCUMENT
 
-Available shortly!
+Available shortly! -->
