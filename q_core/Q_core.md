@@ -32,8 +32,3 @@ We aim to enable anyone from any part of the globe to access a short-term modera
 
 :copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
 
-<<<<<<< HEAD
-----------------------------
-:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
-=======
->>>>>>> 58b64bfdf74be7a8d59c9f6163224580633491fd
