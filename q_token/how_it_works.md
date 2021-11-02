@@ -10,7 +10,7 @@ Just as the mechanism renders the caller's staked balance inactive for the perio
 -------------------------
 
 #### FanTip
-We used this term to describe a condition where a holder of **QFT** has not reduce their balance for a period of 30 days at  a stretch. If holder decides withdraw after 30 days has passed, they automatically earn _% of the total amount locked. However this excludes the regular balance.  
+We used this term to describe a condition where a holder of **QFT** has not reduce their balance for a period of 30 days at  a stretch. If they decide to withdraw thereafter, they automatically earn _% of the total amount locked. However it does not apply to the regular balance.  
 
 --------------------------------
 :copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
