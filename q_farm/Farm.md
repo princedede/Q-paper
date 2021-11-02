@@ -1,6 +1,6 @@
-### THE FARMER
+### THE FARM
 
-The maximum supply of **QFOUR Token** is pre-minted to the Farmer at construction time which sets the totalSupply to zero hence **QFT** is mintable. The initial amount of _500,000,000_ **QFT** was planted in the Farmer's contract and only the farm has the knowledge of it. Each time an amount is minted, an external call is performed which subsequently increased the totalSupply in the source contract as well as the currentSupply from the farmer itself. The Farmer only reserves the authorization to mint **QFT** controlled initially by the deployer later switched to this **[multisig account]()**.
+The maximum supply of **QFOUR Token** of which a certain percentage is  at construction time which sets the totalSupply to zero hence **QFT** is mintable. The initial amount of _500,000,000_ **QFT** was planted in the Farmer's contract and only the farm has the knowledge of it. Each time an amount is minted, an external call is performed which subsequently increased the totalSupply in the source contract as well as the currentSupply from the farmer itself. The Farmer only reserves the authorization to mint **QFT** controlled initially by the deployer later switched to this **[multisig account]()**.
 
 ------------------------------
 

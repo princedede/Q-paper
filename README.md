@@ -6,11 +6,7 @@
 
 ### Concept Overview
 
-**"Technology"** moving at a very fast speed is a result of innovations from creative minds. Decentralized financing brings users and investors to 
-the forefront of claiming more control over their investments, time, and data with less or no control from external or regulatory bodies. 
-This is probably the dream of every blockchain-oriented protocols. The immense power and potentials of the immutable, distributive and decentralized 
-attributes of Blockchain technology makes us believe that our solutions and products will give expected performance (s). Since every fingers seems unequal, 
-we can conclude that Alice may not be as financially bouyant as Bob. This is the underlying concept of our core product. 
+As the Blockchain industry grows, decentralized financing increases in stature with collosally diverse methods of financial dealings hoping to reach the heights where true decentralization could said to have been achieved. The concept of bringing fund owners and/or investors to the forefront of attaining more control over their investments, time, and data with less or no middle interference is probably the dream of every decentralised-oriented protocols. Such immense power and potentials of the immutable, distributive and decentralized attributes of Blockchain technology makes us believe that our solutions and products will give expected performance (s). Even every fingers seems unequal, we can conclude that Alice may not be as financially bouyant as Bob yet both are relevant to the context to which they are defined. This is the underlying concept of our products. 
 
 #### Deep dive into Quatrefinance:
 
