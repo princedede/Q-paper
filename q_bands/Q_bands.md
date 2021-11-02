@@ -1,7 +1,7 @@
 
 ### Quatre Buy and Sell (Q-BandS)
 
-This category operates similar to the traditional way of buying and selling crypto assets but with uniques differences and features thus:
+This category operates similar to the traditional way of buying and selling crypto assets but with unique differences and features thus:
 - Absence of a middle person or intermediary such as the case with centralized exchanges.
 - No KYC is needed.
 - Seller creates a one-time flexible account (added to the pool of sellers on the Quatre page) that absolutely belongs to them. Flexibility means that it can be added/listed both on centralized and decentralized exchanges for greater visibility. In this regards, the compatibility also matters. 
