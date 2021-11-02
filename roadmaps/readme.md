@@ -7,7 +7,7 @@ Summary of a detailed blueprint serving as guidance for the QuatreFinance team. 
 **-** | Idea stage :heavy_check_mark: | Solution documentation and planning :heavy_check_mark: | Product design and strategy for code actualization :heavy_check_mark: | | Progress evaluation.
 **-** | Problem statement draft :heavy_check_mark: | Itemize Solution gathered from research and create some paperwork :heavy_check_mark: | Idea pitching :heavy_check_mark: |  
 **-** | | Team formation :heavy_check_mark: | |
-**-** | | Project planning :heavy_check_mark: | |
+**-** | | Project planning :heavy_check_mark: | | Community development :orange_circle:
 **-** | | Website: wireframing and UI/UX design to begin :heavy_check_mark:  | |
 **-** | | | Complete Token Smart contract code :heavy_check_mark: | Complete Landing page :orange_circle:
 **-** | | | Complete Farm Smart Contract code :heavy_check_mark: |
