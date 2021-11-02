@@ -12,7 +12,7 @@ Summary of a detailed blueprint serving as guidance for the QuatreFinance team. 
 **-** | | | Complete Token Smart contract code :heavy_check_mark: | Complete Landing page :orange_circle:
 **-** | | | Complete Farm Smart Contract code :heavy_check_mark: |
 **-** | | Sales research :orange_circle: | Complete Presale Contract code. |
-**-** | | | | Migration, Beta-testing and security audit by mentors :orange_circle:
+**-** | | | | Migration, Beta-testing and apply for security audit :orange_circle:
 **-** | | | Website development begins :orange_circle: | Public testing :orange_circle:
 **-** | | | Community development :orange_circle: | Core product's code completion :orange_circle:
 **-** | | | Sales roadmaps and plans :orange_circle: | Mainnet launch of Token, Farm, Presale :orange_circle:
