@@ -2,7 +2,7 @@
 ### Development roadmaps
 Summary of a detailed blueprint serving as guidance for the QuatreFinance team. More like an activity and target list to us.
 
-2020 | Q1 | Q2 | Q3 | Q4
+2021| Q1 | Q2 | Q3 | Q4
 ---- | -- | -- | -- | -- 
 **-** | Idea stage :heavy_check_mark: | Solution documentation and planning :heavy_check_mark: | Product design and strategy for code actualization :heavy_check_mark: | | Progress evaluation.
 **-** | Problem statement draft :heavy_check_mark: | Itemize Solution gathered from research and create some paperwork :heavy_check_mark: | Idea pitching :heavy_check_mark: |  
