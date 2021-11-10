@@ -1,8 +1,5 @@
 ### Quatre-four (Q-core)
 
-![fourman](https://user-images.githubusercontent.com/87430168/138263368-22748e2d-9faa-447b-9d5d-f589ac62d4ff.png)
------------------------------------
-
 This is a pool of four-participants cooperative peer-to-peer short-term lending and borrowing structure with 2 major categories and 4 subcategories to preselect from. They all benefits from mutual lending and borrowing in a rotational manner. That is, an user subcribing to for this category is deemed a lender and borrower at the same time. If you're looking to lend only, please refer to the [Q-Lend section](https://link-here). Users must have at least, an amount in _[minimumstakingAmount]()_ given via approval in favor of the _[factory contract]()_. It will be deducted from the regular ledger balance and is added to their stake balance; tie-locked to the factory throughout the _[quat period]()_. After the whole rounds is completed, balance is automatically available to unstake.
 
 > `NOTE:` After the *quat period* has ended, reward will stop counting. Quat is achieved when the four rounds is completed.
