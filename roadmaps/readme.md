@@ -49,5 +49,7 @@ Summary of a detailed blueprint serving as guidance for the QuatreFinance team. 
 :red_circle: | **Canceled**
 
 -------------------------
+
+**[Gov](https://github.com/Quatre-Finance/Q-paper/tree/main/quatre_gov)** | **[Ways_To_Earn](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md)**
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
 

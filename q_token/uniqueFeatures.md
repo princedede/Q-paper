@@ -24,6 +24,6 @@ If a holder calls the `safeSignedTransfer` with the correct _'lock'_ and _'amoun
 
 -------------------
 
-**[Previous]()** | **[Next]()**
+**[minimumStaking](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/minimumStaking.md)** | **[Use-Case](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/uses.md)**
 
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
