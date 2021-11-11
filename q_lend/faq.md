@@ -25,4 +25,6 @@ Your account (Proxy) hold values hence should be valued and protected. An access
 
 -----------------------
 
-**[Previous]()** | **[Next]()**
+**[Previous](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md)** | **[Q-P2p](https://github.com/Quatre-Finance/Q-paper/tree/main/q_p2p)**
+
+:copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
