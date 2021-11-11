@@ -8,6 +8,6 @@ Refer to the **[FAQ]()** for more detail.
 
 ---------------------------------
 
-**[Previous]()** | **[Next]()**
+**[API](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/API.md)** | **[FAQ](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/faq.md)**
 
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
