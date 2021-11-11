@@ -6,23 +6,35 @@
 
 ### Concept Overview
 
-As the Blockchain industry grows, decentralized financing increases in stature with collosally diverse methods of financial dealings hoping to reach the heights where true decentralization could said to have been achieved. The concept of bringing fund owners and/or investors to the forefront of attaining more control over their investments, time, and data with less or no middle interference is probably the dream of every decentralised-oriented protocols. Such immense power and potentials of the immutable, distributive and decentralized attributes of Blockchain technology makes us believe that our solutions and products will give expected performance (s). Even every fingers seems unequal, we can conclude that Alice may not be as financially bouyant as Bob yet both are relevant to the context to which they are defined. This is the underlying concept of our products. 
+As the Blockchain industry grows, decentralized financing increases in stature with collosally diverse methods and insane speed hoping to reach a height where true decentralization could said to have been achieved. The concept of bringing fund owners and/or investors to the forefront of attaining more control over their investments, time, and data with less or no third party interference is probably the dream of every decentralised-oriented protocols. Such immense power and potentials of the immutable, distributive and decentralized attributes of Blockchain technology makes us believe that our solutions in products will give expected performance (s). Even every fingers seems unequal, however Alice may be less financially bouyant as Bob yet both are relevant to the context to which they are defined in every transaction. This is the underlying concept of our solutions. It really goes a long way. 
 
-#### Deep dive into Quatrefinance:
+### Deep dive into Quatrefinance:
 
 - **[INTRO Section](https://github.com/Quatre-Finance/Q-paper/blob/main/INTRO.md#what-is-quatre-finance)**
 
-- **[Quatre Peer Lending and Borrow](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md#)**
+-----------------
 
-- **[Quatre Single Lending and Borrowing](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
+### Quatrefinance products
 
-- **[Quatre Decentralized Buy and Selling](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
+#### Categories: 
 
-- **[Quatre Farm and Staking ](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/Farm.md#the-farmer)**
+- Core
 
-- **[Quatre P2p-Fiat](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)**
+ - **[Q-Core](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md#)**
 
-- **[Q_Wallet](https://github.com/Quatre-Finance/Q-paper/blob/main/q_wallet/Q_Wallet.md#quatre-wallet-q-wallet)**
+- Lending and borrowing
+ - **[Q-Lend](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
+
+ - **[Q-BandS](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
+ - **[Q_Wallet](https://github.com/Quatre-Finance/Q-paper/blob/main/q_wallet/Q_Wallet.md#quatre-wallet-q-wallet)**
+
+ - **[Quatre P2p](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)**
+------------------------------
+
+#### Quatrefinace Token (QFT)
+- **[Metrics and Information (Everything You Need To Know)](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/Farm.md#the-farmer)**
+
+
 
 - **[Quatre Governance](https://github.com/Quatre-Finance/Q-paper/blob/main/quatre_gov/Q_Master.md#quatre-governance)**
 
