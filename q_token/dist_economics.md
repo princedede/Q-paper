@@ -4,7 +4,7 @@
 #### Token allocation and Sales projection
 
 QuatreFinance will perform sales and allocation in the following projected manners.
-Allocations in tables below have their shares from the maximum supply of **1_000, 000, 000** _QFT_
+Allocations in tables below have their shares from the maximum supply of _**1,000, 000, 000**_ _QFT_
 
 ![Allocation](https://user-images.githubusercontent.com/35783747/141297216-9b681035-4a57-4834-a3a1-f480218b5973.PNG)
 
@@ -23,7 +23,7 @@ _fig. 2.0_
 
 -----------------------------
 
-- Other allocations
+- Others
 
 _fig. 2.1_
 
