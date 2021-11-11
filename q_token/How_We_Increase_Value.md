@@ -24,6 +24,6 @@ Income accrued to the platform from the will be from usage of our products. User
 
 --------------------------
 
-**[Previous]()** | **[Next]()**
+**[API](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/API.md)** | **[Metrics](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/Q_tokenMetrics.md)**
 
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
