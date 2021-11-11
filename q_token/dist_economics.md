@@ -6,7 +6,8 @@
 QuatreFinance will perform sales and allocation in the following projected manners.
 Allocations in tables below have their shares from the intial maximum supply of **500, 000, 000** _QFT_
 
-![salesAllocationProjection](https://user-images.githubusercontent.com/87430168/138263459-35935e7a-8c77-47b6-a0c1-b9dfa9459c07.jpg)
+![Allocation](https://user-images.githubusercontent.com/35783747/141297216-9b681035-4a57-4834-a3a1-f480218b5973.PNG)
+
 ---------------------------
 
 - Sales allocation
@@ -15,10 +16,10 @@ _fig. 2.0_
 
 **Allocated to** | **Percentage** | **Amount** _in QFT_ | **Price** _(in USD)_ | **Amount** _(in USD)_
 ---------------- | -------------- | ------------------- | -------------------- | ------------------
-**Strategic** _(Private Sale)_ | **6** | **30, 000, 000** | **0.045** | **1, 350, 000**
-**Seed Sale** _(Angel Investor)_ | **9** | **45, 000, 000** | **0.035** | **1, 575, 000**
-**LaunchPad** | **7** | **35, 000, 000** | **0.075** | **2, 625, 000**
-**Early supporters** | **6** | **30, 000, 000** | **0.09** | **2, 700, 00**
+**Strategic** _(Private Sale)_ | **6** | **60, 000, 000** | **0.0225** | **1, 350, 000**
+**Seed Sale** _(Angel Investor)_ | **9** | **90, 000, 000** | **0.0175** | **1, 575, 000**
+**LaunchPad** | **7** | **70, 000, 000** | **0.0375** | **2, 625, 000**
+**Early supporters** | **6** | **60, 000, 000** | **0.045** | **2, 700, 00**
 
 -----------------------------
 
@@ -26,17 +27,17 @@ _fig. 2.0_
 
 _fig. 2.1_
 
-**Allocated to** | **Percentage** | **Amount** _in QFT_
+**Allocated to** | **Percentage %** | **Amount** _in QFT_
 ---------------- | -------------- | -------------------
-**Aidrops** | **1** | **5, 000, 000**
-**Ecosystem growth** _(includes marketing)_ | **31** | **155, 000, 000**
-**Team and Advisors** | **20** | **100, 000, 000**
-**Liquidity Mining** | **20** | **100, 000, 000**
+**Aidrops** | **2** | **20, 000, 000**
+**Ecosystem growth** _(includes marketing)_ | **30** | **300, 000, 000**
+**Team and Advisors** | **20** | **200, 000, 000**
+**Liquidity Mining** | **20** | **200, 000, 000**
 
 -----------------------------
 
 
-#### Funds allocation projection
+#### Fund allocation projection
 _fig. 3.0_
 
 **Marketing** _9%_ | **Development** _58%_ | **Operation** _21%_ | **Team** _12%_
@@ -44,6 +45,6 @@ _fig. 3.0_
 
 -----------------------------------
 
-**[Previous]()** | **[Next]()**
+**[Metrics](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/Q_tokenMetrics.md)** | **[How it works](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/how_it_works.md)**
 
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
