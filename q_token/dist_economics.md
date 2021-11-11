@@ -4,7 +4,7 @@
 #### Token allocation and Sales projection
 
 QuatreFinance will perform sales and allocation in the following projected manners.
-Allocations in tables below have their shares from the intial maximum supply of **500, 000, 000** _QFT_
+Allocations in tables below have their shares from the maximum supply of **1_000, 000, 000** _QFT_
 
 ![Allocation](https://user-images.githubusercontent.com/35783747/141297216-9b681035-4a57-4834-a3a1-f480218b5973.PNG)
 
@@ -14,12 +14,12 @@ Allocations in tables below have their shares from the intial maximum supply of 
 
 _fig. 2.0_
 
-**Allocated to** | **Percentage** | **Amount** _in QFT_ | **Price** _(in USD)_ | **Amount** _(in USD)_
----------------- | -------------- | ------------------- | -------------------- | ------------------
-**Strategic** _(Private Sale)_ | **6** | **60, 000, 000** | **0.0225** | **1, 350, 000**
-**Seed Sale** _(Angel Investor)_ | **9** | **90, 000, 000** | **0.0175** | **1, 575, 000**
-**LaunchPad** | **7** | **70, 000, 000** | **0.0375** | **2, 625, 000**
-**Early supporters** | **6** | **60, 000, 000** | **0.045** | **2, 700, 00**
+**Allocated to** | **Percentage** | **Amount** _in QFT_ | **Price** _(in USD)_
+---------------- | -------------- | ------------------- | --------------------
+**Strategic** _(Private Sale)_ | **6** | **60, 000, 000** | **0.0225** 
+**Seed Sale** _(Angel Investor)_ | **9** | **90, 000, 000** | **0.0175**
+**LaunchPad** | **7** | **70, 000, 000** | **0.0375**
+**Early supporters** | **6** | **60, 000, 000** | **0.045**
 
 -----------------------------
 
