@@ -18,22 +18,21 @@ As the Blockchain industry grows, decentralized financing increases in stature w
 
 #### Categories: 
 
-- Core
+Core
+- **[Q-Core](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md#)**
 
- - **[Q-Core](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md#)**
+Lending and borrowing
 
-- Lending and borrowing
+- **[Q-Lend](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
 
- - **[Q-Lend](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
+- **[Quatre P2p](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)**
 
- - **[Quatre P2p](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)**
+Exchange
 
-- Exchange
+- **[Q-BandS](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
 
- - **[Q-BandS](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
-
-- Wallet
- - **[Q_Wallet](https://github.com/Quatre-Finance/Q-paper/blob/main/q_wallet/Q_Wallet.md#quatre-wallet-q-wallet)**
+Wallet
+- **[Q_Wallet](https://github.com/Quatre-Finance/Q-paper/blob/main/q_wallet/Q_Wallet.md#quatre-wallet-q-wallet)**
 
 ------------------------------
 
