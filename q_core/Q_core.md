@@ -41,7 +41,7 @@ The target is to enable anyone across the globe to access a moderate short-term 
 
 -----------------------
 
-**[API](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/API.md)** | **[Next](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/faq.md)**
+**[API](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/API.md)** | **[FAQ](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/faq.md)**
 
 :copyright: Quatrefinance | **[Farm](https://github.com/Quatre-Finance/Q-paper/tree/main/q_farm)** | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
 
