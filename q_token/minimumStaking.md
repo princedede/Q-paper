@@ -1,15 +1,16 @@
-### MinimumStaking threshold
+#### MinimumStaking threshold
 
-... to be set.
+...unavailable
+
 ------------------------------
 
-### Maximum Staking threshold
+#### Maximum Staking threshold
 
-... to be set.
+...unavailable.
 
 ---------------------
 
-**[Previous]()** | **[Next]()**
+**[minCreationFee](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/minCreationFee.md)** | **[READme](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/readme.md)**
 
 
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
