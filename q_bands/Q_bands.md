@@ -17,6 +17,6 @@ This category operates similar to the traditional way of buying and selling cryp
 
 --------------------------------
 
-**[Previous]()** | **[Next]()**
+**[API](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/API.md)** | **[FAQ](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/faq.md)**
 
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
