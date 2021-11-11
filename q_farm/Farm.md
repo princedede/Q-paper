@@ -25,6 +25,6 @@ User should have:
 `Note`: If an user already has stake running, and call the **stake** again, the previous is unstaked, reward (if any) will be added to pending reward balance and both the new and old amounts are summed and restaked.
 
 ----------------
-**[Previous]()** | **[Next]()**
+**[API](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/API.md)** | **[Q-Lend](https://github.com/Quatre-Finance/Q-paper/tree/main/q_lend)**
 
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
