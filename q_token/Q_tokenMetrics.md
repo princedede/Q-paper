@@ -24,6 +24,6 @@ For more information: See _[how it works]()_.
 
 ----------------------
 
-**[Previous]()** | **[Next]()**
+**[How_We_Increase_Value](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/How_We_Increase_Value.md)** | **[dist_economics](https://github.com/Quatre-Finance/Q-paper/blob/main/q_token/dist_economics.md)**
 
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
