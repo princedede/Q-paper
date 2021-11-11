@@ -41,5 +41,7 @@ The target is to enable anyone across the globe to access a moderate short-term 
 
 -----------------------
 
-:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
+**[Previous]()** | **[Next]()**
+
+:copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
 

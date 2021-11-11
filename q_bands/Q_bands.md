@@ -17,4 +17,6 @@ This category operates similar to the traditional way of buying and selling cryp
 
 --------------------------------
 
-:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
+**[Previous]()** | **[Next]()**
+
+:copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

@@ -23,24 +23,40 @@ As the Blockchain industry grows, decentralized financing increases in stature w
  - **[Q-Core](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md#)**
 
 - Lending and borrowing
+
  - **[Q-Lend](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
 
+ - **[Quatre P2p](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)**
+
+- Exchange
+
  - **[Q-BandS](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
+
+- Wallet
  - **[Q_Wallet](https://github.com/Quatre-Finance/Q-paper/blob/main/q_wallet/Q_Wallet.md#quatre-wallet-q-wallet)**
 
- - **[Quatre P2p](https://github.com/Quatre-Finance/Q-paper/blob/main/q_p2p/Q_p2p.md#quatre-p2p-q-native)**
 ------------------------------
 
 #### Quatrefinace Token (QFT)
 - **[Metrics and Information (Everything You Need To Know)](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/Farm.md#the-farmer)**
 
+-----------------
 
+#### Governance
 
-- **[Quatre Governance](https://github.com/Quatre-Finance/Q-paper/blob/main/quatre_gov/Q_Master.md#quatre-governance)**
+- **[QMaster](https://github.com/Quatre-Finance/Q-paper/blob/main/quatre_gov/Q_Master.md#quatre-governance)**
 
-- **[Ways To Earn With Quatrefinance](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md#ways-to-earn-with-quatre-finance)**
+------------------
 
-- **[Roadmaps](https://github.com/Quatre-Finance/Q-paper/tree/main/roadmaps#roadmaps)**
+#### Ways-To-Earn
+- **[Earning Model](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md#ways-to-earn-with-quatre-finance)**
+
+-----------------
+
+#### Roadmaps
+
+- **[To-do-lists](https://github.com/Quatre-Finance/Q-paper/tree/main/roadmaps#roadmaps)**
+
 
 
 --------------------

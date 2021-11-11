@@ -1,6 +1,6 @@
 
 ## Understand QFOUR Token metrics
-**QFOUR** Token (ERC20 standard : Avalanche network) is the native token of the QuatreFinance platform with enormously foreseeable use cases deployed and verifiable at [Avascan](http://bscscan.com) : [Bscscan](http://bscscan.com). 
+**QFOUR** Token (ERC20 standard) is the native token of the QuatreFinance platform with enormously foreseeable use cases deployed and verifiable at **[Address](http://avascan.com)** : **[Address](http://avascan.com)**. 
 
 _fig. 1.1_
 
@@ -9,19 +9,21 @@ _fig. 1.1_
 **Token Type** | **ERC-20 Standard**
 **Ticker(Symbol)** | **QFT**
 **Decimals** | **18**
-**Max Supply** | **500_000_000** x **10** ** **Decimals**
+**Max Supply** | **1_000_000_000** x **10** ** **Decimals**
 **Total Supply** | _vary_
 **CurrentSupply** | **Total Supply** _(may vary)_
 
-The **QFOUR Token** : initially emmitted from [[Source Address]](http://explorer.com) at construction time is housed mintable and burnable only by the [[Farm Contract Address]](http://explorer.com). Total amount of **`QFT`** the farm is able to mint in the contract lifeTime cannot exceed amount of **_Max Supply_** (See fig. 1.1). Access control is enforced on _[special functions]()_ like `burn()` available only to the Farm: is controlled by _[multisignature account]()_. Such control however does not include the general public methods specified in _[ERC20 Token standard]()_. **QFOUR Token** is built with some internal safety and checks to mitigate against losing funds - please refer to our _[API section]()_.
+**QFOUR Token** : initially emmitted at [[:Tx Hash]](http://avascan.com) at construction time is housed, mintable in the [[Farm]](http://avascan.com). Total amount of **`QFT`** the farm is able to mint in the contract lifeTime cannot exceed amount of **_Max Supply_** (See fig. 1.1). Access control is enforced on `burn()`. It is available only to the Farm: controlled by _[this multisig]()_. Such control however does not in any way directly or indirectly hinder free token movement and all public methods specified in the _[ERC20 Token standard]()_. **QFT** has a built-in staking method. For more infomation, see the _[API section]()_.
 
 ### Token-Burn
-We employed this mechanism to compliment the methods we have devised for creating scarcity to bring more value to **QFOUR Token**. Based on our model, the farm needs to have more control on supply in circulation. **QFT** is designed to call for value via its use cases and a special staking algorithm which temporarily mops out token from circulation as need increases and similarly emits when unstaked. Such need is tied to virtually all QuatreFinance products.
+We employed this mechanism to compliment the methods we have devised for creating scarcity to create value for **QFT**. Based on our model, the farm needs to have more control on supply in circulation. **QFT** is designed to call for value via its use cases and a special staking algorithm which temporarily mops out token from circulation as demand for staking increases and similarly emits when unstaked. Such need is tied to virtually all the ecosystem's products.
 
-The Quatre team will perform periodic burn on a quarterly basis or as the team deem fit which will be communicated in our various channels.
+The team will perform periodic buyback and percentage burn on a periodic basis or as the team deem fit which will be communicated in our various channels.
 
-More information on _[how it works]()_.
+For more information: See _[how it works]()_.
 
 ----------------------
 
-:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
+**[Previous]()** | **[Next]()**
+
+:copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

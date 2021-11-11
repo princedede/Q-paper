@@ -49,5 +49,5 @@ Summary of a detailed blueprint serving as guidance for the QuatreFinance team. 
 :red_circle: | **Canceled**
 
 -------------------------
-:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
+:copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
 

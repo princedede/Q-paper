@@ -22,3 +22,7 @@ You are fee to stop your proxy from running at any time. However there two optio
 Your account (Proxy) hold values hence should be valued and protected. An access to your account (EOA with which youu created it) should be well secured. The proxy is securely built to resist unwanted actions on sensitive settings other than you from external sources but we do not have control over external actions that may be supercharged to it either in the course of owner's negligence or superadded activities from the direct users.
 
 **`NOTE :`** _Quatre-finance does not have control over your account or funds. In fact, we have no way to access it. You own it._
+
+-----------------------
+
+**[Previous]()** | **[Next]()**

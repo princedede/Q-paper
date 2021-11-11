@@ -7,4 +7,7 @@ One can also consider a p2p use case scenario where Bob does not want to sell of
 Refer to the **[FAQ]()** for more detail.
 
 ---------------------------------
-:copyright: Quatrefinance | **[Return to home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
+
+**[Previous]()** | **[Next]()**
+
+:copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
