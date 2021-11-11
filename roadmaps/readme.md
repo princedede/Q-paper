@@ -53,3 +53,35 @@ Summary of a detailed blueprint serving as guidance for the QuatreFinance team. 
 **[Gov](https://github.com/Quatre-Finance/Q-paper/tree/main/quatre_gov)** | **[Ways_To_Earn](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md)**
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
 
+
+
+
+Gbenga Olotu: https://www.linkedin.com/in/oluwagbemiga-olotu-a3247710/
+
+Progress Ojemeh : https://www.linkedin.com/in/progress-ojemeh-459730190
+
+Tserundede Godswill: https://www.linkedin.com/in/tserundede-godswill-ejueyitchie-5813759a
+
+Isaac J: https://www.linkedin.com/in/isaac-j-a6764a169, https://github.com/bobeu
+
+Quatrefinance is a decentralized digital platform. We are focus on building decentralized applications such as decentralized financial protocols (e.g Lending and borrowing), Exchange, P2p, wallet. These are our major product categories. 
+
+What makes us different!
+
+We will consistently build protocols in products blending with the changing technology. Detailed information is contained in a pitch and/or documentation that will be shared in this form. 
+
+Between Q4 2021 and Q3 2022 to fully launch all initial products in the product's categories.
+
+list. Although the order they're written here does not matter. Full roadmaps is contained in our paper.
+
+A. Community development 
+B. Complete Landing page 
+C. Testing token/farm and audit.
+D. Core product's code completion.
+E. Mainnet launch of Token and peripherals.
+F. Website goes live.
+G. Operational and strategic marketing.
+H. Phase 1 of sales to begin
+I. Product 1 (Core) goes live (Might move towards Q1 2022.
+J. Launch airdrop.
+K. Progress evaluation.
