@@ -16,9 +16,9 @@ Our incentivized program (s) allow investors, liquidity provider and participant
 
 ------------------------
 
-#### Mission
+### Mission
 
-Our mission is to build decentralized protocols that create and manage both financial and non-financial relationships between parties to trade (lenders and borrowers, buyers and sellers or as the case may be from time to time) exempting an intermediary, with either of the parties not necessarily having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
+To build decentralized protocols that create and manage both financial and non-financial relationships between parties to trade (lenders and borrowers, buyers and sellers or as the case may be from time to time) exempting an intermediary, with either of the parties not necessarily having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
 
 ----------------------------
 
@@ -50,22 +50,31 @@ This is an inherently-interesting blockchain feature that Quatre-finance builds 
 ----------------------
 
 ### Technology.
-The protocol will exist both on the Avalance network as we consider other chains in the future. It ranks first on our list of preferences even though we strongly consider other technologies.
+The Quatrefinance's protocols will be built on EVM compatible networks (we may extend to more technologies in the future as our mission statement requires that we consistently build on the same Quatrefinance platform). From our research, we are looking to extend to one or more from:
+- Avalanche
+- Polygon
+- Binance Smart Chain
 
-#### Why Avalanche?
+#### Take a look at the following quotes: 
 
-Take a look at the following quoted from **[Avalanche](https://docs.avax.network/)**: 
+- **[Avalanche](https://docs.avax.network/)**: 
 > A key difference between Avalanche and other decentralized networks is the consensus protocol. Over time, people have come to a false understanding that blockchains have to be slow and not scalable. The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput without compromising decentralization.
 
-Every EVM compatible technologies have one or more uniqueness (es). We chose Avalanche for a couple of reasons. Some of which are thus: 
+- **[Polygon](https://polygon.technology/)**: 
+> Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
 
-* It is Ethereum virtual machines compatible. That is, it is capable of executing smart contracts instructions which we deem suitable for implemeting our backend written in solidity language.
+- **[Binance Smart Chain](https://www.binance.org/en/smartChain)**:
+> This dual-chain architecture will empower its users to build their decentralized apps and digital assets on one blockchain and take advantage of the fast trading to exchange on the other.
 
-* Avalanche is preferred for its considerably low transaction fees.
-* It encourages Borderless decentralized finance (DeFi) that allows anyone around the globe with an internet service to access our services.
-* Among others, its performance is suitable for mass adoption.
+Every EVM compatible technologies have one or more uniqueness (es). Some factors we consider: 
 
-Leveraging on the use cases of blockchain technology such as the distributive, permissionless and immutability features via smart contract architecture, we established Quatre-finance protocol that inherits the modern blockchain attributes with customised rules.
+* Should be Ethereum virtual machines compatible. That is, capability of executing smart contracts instructions which we deem suitable for implemeting our backend written in solidity language.
+
+* With considerably low transaction fees.
+* Should encourage Borderless decentralized finance (DeFi) that allows anyone around the globe with an internet service to access our services.
+* Among others, its performance should be suitable for mass adoption.
+
+We are leveraging on the use cases of blockchain technology such as the distributive, permissionless and immutability features via smart contract architecture, we established Quatre-finance protocol that inherits the modern blockchain attributes with customised rules.
 
 We have consider leveraging the aforementioned potentials of the Avalanche platform to compliment our intuition. 
 
