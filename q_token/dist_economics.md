@@ -19,7 +19,7 @@ _fig. 2.0_
 **Charity** | 1 | 10, 000, 000 | 0 | 61 | 5% released monthly after 61 days of TGE
 
 
-`NOTE`: All unsold token will be sent to the burnt.
+`NOTE`: All unsold token will be the burnt.
 
 -----------------------------
 
