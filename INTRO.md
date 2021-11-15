@@ -18,7 +18,7 @@ Our incentivized program (s) allow investors, liquidity provider and participant
 
 ### Mission
 
-To build decentralized protocols that create and manage both financial and non-financial relationships between parties to trade (lenders and borrowers, buyers and sellers or as the case may be from time to time) exempting an intermediary, with either of the parties not necessarily having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
+To build decentralized protocols that create and manage both financial and non-financial relationships between parties to trade or transaction (lenders and borrowers, buyers and sellers or as the case may be from time to time) exempting an intermediary, with either of the parties not necessarily having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
 
 ----------------------------
 
