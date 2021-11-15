@@ -16,6 +16,25 @@ Our incentivized program (s) allow investors, liquidity provider and participant
 
 ------------------------
 
+### Problems
+
+- Barriers to fast adoption posed by centralized blockchain operators such as rigorous KYCs etc.
+- Trust issues between parties to trade.
+- Security problems with some open and fully decentralized operators.
+- Loss of fund in the event of demise.
+- Low adoption due to technical nature of blockchain technology.
+
+------------------------
+
+### Our Solutions
+
+- We are creating a protocol that removes the need for trust.
+- A truly decentralized platform with no kyc.
+- Raising standards above the limit of existing decentralized operators.
+- Better user interface and integration to accomodate average internet users.
+- Improve wallet service to reduce funds being stolen or locked forver.
+
+
 ### Mission
 
 To build decentralized protocols that create and manage both financial and non-financial relationships between parties to trade or transaction (lenders and borrowers, buyers and sellers or as the case may be from time to time) exempting an intermediary, with either of the parties not necessarily having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
