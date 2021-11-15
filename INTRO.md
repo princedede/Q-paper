@@ -1,6 +1,6 @@
 
 ### What is Quatre-Finance?
-Quatre-finance is a platform for decentralizedapplications. We aim not to completely uninstall the application world but re-emphasizing the need for true decentralization. while building decentralized products tailored to individual needs putting them in complete control of their funds and/or investments, our concepts are not limited to the following:
+Quatre-finance is a platform for decentralized applications. We aim not to completely uninstall the application world but re-emphasizing the need for true decentralization. while building decentralized products tailored to individual needs putting them in complete control of their funds and/or investments, our concepts are not limited to the following:
 
 - Our core product and ideology is centered around creating a platform for users to easily access crypto loan via a rotational peer-to-peer system for a short period of time usually 7 days.
 
