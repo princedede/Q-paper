@@ -9,18 +9,18 @@ Summary of a detailed blueprint serving as guidance for the QuatreFinance team. 
 **-** | | Team formation :heavy_check_mark: | |
 **-** | | Project planning :heavy_check_mark: | | Community development :orange_circle:
 **-** | | Website: wireframing and UI/UX design to begin :heavy_check_mark:  | |
-**-** | | | Complete Token Smart contract code :heavy_check_mark: | Complete Landing page :orange_circle:
+**-** | | | Complete Token Smart contract code :heavy_check_mark: | Complete Landing page :heavy_check_mark:
 **-** | | | Complete Farm Smart Contract code :heavy_check_mark: |
 **-** | | Sales research :orange_circle: | Complete Presale Contract code. |
 **-** | | | | Migration, Beta-testing and apply for security audit :orange_circle:
 **-** | | | Website development begins :orange_circle: | Public testing :orange_circle:
 **-** | | | Community development :orange_circle: | Core product's code completion :orange_circle:
 **-** | | | Sales roadmaps and plans :orange_circle: | Mainnet launch of Token, Farm, Presale :orange_circle:
-**-** | | | | Website goes live :orange_circle:
+**-** | | | | Website goes live :heavy_check_mark:
 **-** | | | | Operational and strategic marketing begins :orange_circle:
-**-** | | | | Phase 1 of sales to begin (Private).
+**-** | | | | Private sale.
 **-** | | | | Product 1 (Core) goes live.
-**-** | | | | Launch airdrop.
+**-** | | | | Launch airdrop (phase 1) :heavy_check_mark:.
 **-** | | | | Seed sales (phase 2).
 **-** | | | | Q-VIP NFT development.
 **-** | | | | Progress evaluation.
