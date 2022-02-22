@@ -44,7 +44,7 @@ Assume Bob, Alice and Gorimapa have agreed to set up a pool of three persons to 
   - **Participants** : **A list of participating addresses**.
   - **AllowExternal** : **false**.
 
-**NOTE**: Setting the flag `allowExternal` to false will restrict anyone other than the broadcasted participants to make deposit to the pool. 
+**NOTE**: Setting the flag `allowExternal` to false will restrict anyone other than the broadcasted participants to make deposit to the pool. **As at the time of writing, only non-strict mode is available.**
 
 #### onFinance
 
