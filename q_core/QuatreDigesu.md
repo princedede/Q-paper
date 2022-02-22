@@ -1,4 +1,5 @@
-### Quatre-four (Q-core)
+### QuatreDigesu (Q-Core)
+
 Modelling against a prominent ancient African financial scheme, Quaterfinance **Digesu** aims to uphold the social spirit while providing solutions to the shortcomings. Think of a group of people in a setting who have agreed to peer-fund one another to finance either new business, a project or non-profit endeavors, usually agreeing on a certain rules of participation, pool financial resource together to finance one another in a rotational manner. 
 
 #### Problems
@@ -7,10 +8,10 @@ Since money and people are involved, `trust` is a major issue to deal with and q
 - Will the next paticipants fulfill their obligation?
 - WIll they pay back in full?
 - How do we get our money if they default?
-- Do we charge interest or not? 
+- Do we charge interest or not? etc
 
 #### How we solve it
-At Quatrefinance, we harness the potentials of blockchain technology to solve existing or emerging problems in the African societies and globally. Our solutions go beyond connecting the African communities but the world at large. This implies that anyone around the world can participate in the scheme in a decentralized manner. Our software (Digesu) will not only ensure coperations but also enforces actions to protect the rights of every participants.
+At Quatrefinance, we harness the potentials of blockchain technology to solve existing or emerging problems in the African societies and globally. Our solutions go beyond connecting the African communities but the world at large. This implies that anyone around the world can participate in the scheme in a decentralized manner. Our software (Digesu) will not only ensure cooperations but also enforces actions to protect the rights of every participants.
 To ensure compliance, we introduce a collateral-like system. Participant whose turn is to get financed must possess **QFT** in their wallet an amount not less than unit funding multiplied by the **Quorum** (total number of particiants) only if the pool was not collaterized from the onset, otherwise, will not be less than the total pool amount multiplied the collateral factor.
 
 We represent thus:
@@ -30,17 +31,18 @@ We represent thus:
 
 **1.** **Creating a pool**
 
-- Strict mode
+  - Strict mode
+
 Assume Bob, Alice and Gorimapa have agreed to set up a pool of three persons to raise funds among themselves with unit amount of **1 BNB** for a total cycle of 15 days. Agreeing to set collateral to 1.2 of the total pool using **BUSD** as the collateral base and an interest of 2%, we then have the following settings to launch a new pool:
-  
-  **Amount** : **1 BNB**.
-  **Quorum** : **3**.
-  **Duration** : **5 days**.
-  **Collateral factor** : **1.2**. 
-  **APR** : **2%**.
-  **Collateral Address** : **BUSD Contract**.
-  **Participants** : **A list of participating addresses**.
-  **AllowExternal** : **false**.
+
+  - **Amount** : **1 BNB**.
+  - **Quorum** : **3**.
+  - **Duration** : **5 days**.
+  - **Collateral factor** : **1.2**. 
+  - **APR** : **2%**.
+  - **Collateral Address** : **BUSD Contract**.
+  - **Participants** : **A list of participating addresses**.
+  - **AllowExternal** : **false**.
 
 **NOTE**: Setting the flag `allowExternal` to false will restrict anyone other than the broadcasted participants to make deposit to the pool. 
 
@@ -53,20 +55,20 @@ Soon as the quorum value is reached, the total pool amount becomes available to 
 Participant who get financed may decide to amortize the loan or pay all at once but must complete the total repayment amount before the duration elapsed. If the otherwise happens, anyone who must be a member of the pool may liquidate the defaulter. In this case, their **QFT** is confiscated and use to set off the loan. 
 
 
-- Non-Strict mode
+  - Non-Strict mode
 
-In contrast to the strict mode, the creator may allow anyone to join their pool. This mean, as the creator, you do not have to explicitly add participants to your group. Anyone may select to join in but the initial setting wil slightly change from that of strict mode. Please use the dedicated function for this purpose. 
+In contrast to the strict mode, the creator may allow anyone to join their pool. This mean, as the creator, you do not have to explicitly add participants to your group. Anyone may select to join in but the initial setting wil slightly change from that of strict mode. Please use the designated function for this purpose. 
 
 -----------------
 
 **2.** **Joining existing pool**
 
-A pool we created in non-strict mode is visible and allowance is set to true for anyone join.
+A pool we created in non-strict mode is visible and allowance is set to true for anyone to join.
 **NOTE**: Intending participant must have amount in base currency sufficient pay for unit amount plus gas fee (usually minimal).  
 
 
 
-**`NOTE :`** _Quatre-finance does not have control over this pool of funds. In fact, we have no way to access it_.
+**`NOTE :`** _Quatre-finance does not have control over funds in any of the pools. In fact, we have no way to access it_.
 
 ---------------------------
 
