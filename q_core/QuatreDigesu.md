@@ -12,7 +12,7 @@ Since money and people are involved, `trust` is a major issue to deal with and q
 
 #### How we solve it
 At Quatrefinance, we harness the potentials of blockchain technology to solve existing or emerging problems in the African societies and globally. Our solutions go beyond connecting the African communities but the world at large. This implies that anyone around the world can participate in the scheme in a decentralized manner. Our software (Digesu) will not only ensure cooperations but also enforces actions to protect the rights of every participants.
-To ensure compliance, we introduce a collateral-like system. Participant whose turn is to get financed must possess **QFT** in their wallet an amount not less than unit funding multiplied by the **Quorum** (total number of particiants) only if the pool was not collaterized from the onset, otherwise, will not be less than the total pool amount multiplied the collateral factor.
+To ensure compliance, we introduce a collateral-like system which requires deposit in another crypto currency. 
 
 We represent thus:
 - With collaterized:
@@ -48,7 +48,7 @@ Assume Bob, Alice and Gorimapa have agreed to set up a pool of three persons to 
 
 #### onFinance
 
-Soon as the quorum value is reached, the total pool amount becomes available to the first on the list as preserved at creation time. It continues in a rotational order if there is no default from the previous taker. This sets a temporary lock on the their **QFT** holding until the loan is repaid.
+Soon as the quorum value is reached, the total pool amount becomes available to the first on the list as preserved at creation time. It continues in a rotational order if there is no default from the previous taker. This sets a temporary lock on their **QFT** holding until the loan is repaid. Participant whose turn is to get financed must possess **QFT** in their wallet of an amount not less than the unit funding multiplied by the **Quorum** (total number of particiants) only if the pool was not collaterized from the onset, otherwise, will not be less than the total pool amount multiplied by the collateral factor.
 
 ##### onDefault
 
