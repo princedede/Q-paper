@@ -1,5 +1,7 @@
 ### QuatreDigesu (Q-Core)
 
+![IMG_20220223_072700](https://user-images.githubusercontent.com/87430168/155271873-ca4643f1-c4fd-4fca-ad85-8a62607d2529.png)
+
 Modelling against a prominent ancient African financial scheme, Quaterfinance **Digesu** aims to uphold the social spirit while providing solutions to the shortcomings. Think of a group of people in a setting who have agreed to peer-fund one another to finance either new business, a project or non-profit endeavors, usually agreeing on a certain rules of participation, pool financial resource together to finance one another in a rotational manner. 
 
 #### Problems
