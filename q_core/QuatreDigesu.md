@@ -1,8 +1,9 @@
 ### QuatreDigesu (Q-Core)
+![IMG_20220223_072720 (1)](https://user-images.githubusercontent.com/35783747/157897718-5105cd09-ac12-43b3-8497-4df906247957.png)
 
-![IMG_20220223_072700](https://user-images.githubusercontent.com/87430168/155271873-ca4643f1-c4fd-4fca-ad85-8a62607d2529.png)
+<!-- ![IMG_20220223_072700](https://user-images.githubusercontent.com/87430168/155271873-ca4643f1-c4fd-4fca-ad85-8a62607d2529.png) -->
 
-Modelling against a prominent ancient African financial scheme, Quaterfinance **Digesu** aims to uphold the social spirit while providing solutions to the shortcomings. Think of a group of people in a setting who have agreed to peer-fund one another to finance either new business, a project or non-profit endeavors, usually agreeing on a certain rules of participation, pool financial resource together to finance one another in a rotational manner. 
+Modelling against a prominent ancient African financial scheme where few people from a community or related settings come together to fund one another by pooling resources passing it rotationally, Quaterfinance **Digesu** aims to uphold the social spirit while providing solutions to the shortcomings. Think of a group of people in a setting who have agreed to peer-fund one another to finance either new business, a project or non-profit endeavors, usually agreeing on a certain rules of participation, pool financial resource together to finance one another in a rotational manner. 
 
 #### Problems
 Since money and people are involved, `trust` is a major issue to deal with and questions such as:
