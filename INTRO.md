@@ -69,8 +69,8 @@ This is an inherently-interesting blockchain feature that Quatre-finance builds 
 ----------------------
 
 ### Technology.
-The Quatrefinance's protocols will be built on EVM compatible networks (we may extend to more technologies in the future as our mission statement requires that we consistently build on the same Quatrefinance platform). From our research, we are looking to extend to one or more from:
-- Avalanche
+The Quatrefinance's protocols will be built on EVM compatible networks (we may extend to more technologies in the future as our mission statement requires that we consistently build on the same Quatrefinance platform). From our research, we are looking to extend to one or more technologies:
+<!-- - Avalanche
 - Polygon
 - Binance Smart Chain
 
@@ -84,7 +84,7 @@ The Quatrefinance's protocols will be built on EVM compatible networks (we may e
 
 - **[Binance Smart Chain](https://www.binance.org/en/smartChain)**:
 > This dual-chain architecture will empower its users to build their decentralized apps and digital assets on one blockchain and take advantage of the fast trading to exchange on the other.
-
+ -->
 Every EVM compatible technologies have one or more uniqueness (es). Some factors we consider: 
 
 * Should be Ethereum virtual machines compatible. That is, capability of executing smart contracts instructions which we deem suitable for implemeting our backend written in solidity language.
