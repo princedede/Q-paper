@@ -59,7 +59,11 @@ Wallet
 
 
 --------------------
-- **Website**: In development
+- **[Website](https://quatre.finance)**
+- - **[DApp](https://app.quatre.finance)**
+- - **[Telegram](https://t.me/quatrefinance)**
+- - **[Twitter](https://twitter.com/Quatrefinance)**
+- - **[Announcement](In https://t.me/QuatreDefi)**
 --------------------------------------
 
 <!-- ### HOW TO CONTRIBUTE TO THIS DOCUMENT
