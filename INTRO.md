@@ -20,7 +20,7 @@ Our incentivized program (s) allow investors, liquidity provider and participant
 
 - Barriers to fast adoption posed by centralized blockchain operators such as rigorous KYCs etc.
 - Trust issues between parties to trade.
-- Security problems with some open and fully decentralized operators.
+- Inherent security issues with decentralized operators.
 - Loss of fund in the event of demise.
 - Low adoption due to technical nature of blockchain technology.
 
