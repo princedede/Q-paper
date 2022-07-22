@@ -8,7 +8,7 @@ Quatre-finance is a platform for decentralized applications. We aim not to compl
 
 - Traders looking to borrow on a short-term basis, can join the Q-core pool, move it to exchange to make more profits leveraging on their existing portfolio as collateral. In this pool, they also become a lender.
 
-- With Quatrefinance decentralized lending protocol (Q-Lend), fund owners who wish to play safe and retain full ownership and control of their funds can unilaterally set up (from our proxy-based) a public - private inclined exchange for themselves where they can lend any ERC20 or AVAX compatible assets to others at interest they're willing to give it out. The goal is to create a competitive interest atmostphere where lenders give out loan at a rate they are most convenient with. 
+- With Quatrefinance decentralized lending protocol (Q-Lend), fund owners who wish to play safe and retain full ownership and control of their funds can unilaterally set up (from our proxy-based) a public - private inclined exchange for themselves where they can lend platform-compatible assets to others at a profitable interest. The goal is to create a competitive interest atmostphere where lenders give out loan at a rate they are most convenient with. 
 
 - Q-BandS gives benefits similar to that of _**Q-Lend**_ when anyone runs the proxy-based account that allows them to sell crypto to anyone directly without a third party involvement. See the _[Q-Lend Section](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)_
 
@@ -20,7 +20,7 @@ Our incentivized program (s) allow investors, liquidity provider and participant
 
 - Barriers to fast adoption posed by centralized blockchain operators such as rigorous KYCs etc.
 - Trust issues between parties to trade.
-- Security problems with some open and fully decentralized operators.
+- Inherent security issues with decentralized operators.
 - Loss of fund in the event of demise.
 - Low adoption due to technical nature of blockchain technology.
 
@@ -37,7 +37,7 @@ Our incentivized program (s) allow investors, liquidity provider and participant
 
 ### Mission
 
-To build decentralized protocols that create and manage both financial and non-financial relationships between parties to trade or transaction (lenders and borrowers, buyers and sellers or as the case may be from time to time) exempting an intermediary, with either of the parties not necessarily having to know or trust who they are dealing with in a manner that regards the right of both parties while giving them equal control commensurate to their position in the trade at that point, and everyone is happy in the end. 
+To build decentralized protocols, using blockchain technologies in a trustless environments that manage both financial and non-financial relationships between parties.  
 
 ----------------------------
 
@@ -69,8 +69,8 @@ This is an inherently-interesting blockchain feature that Quatre-finance builds 
 ----------------------
 
 ### Technology.
-The Quatrefinance's protocols will be built on EVM compatible networks (we may extend to more technologies in the future as our mission statement requires that we consistently build on the same Quatrefinance platform). From our research, we are looking to extend to one or more from:
-- Avalanche
+The Quatrefinance's protocols will be built on EVM compatible networks (we may extend to more technologies in the future as our mission statement requires that we consistently build on the same Quatrefinance platform). From our research, we are looking to extend to one or more technologies:
+<!-- - Avalanche
 - Polygon
 - Binance Smart Chain
 
@@ -84,7 +84,7 @@ The Quatrefinance's protocols will be built on EVM compatible networks (we may e
 
 - **[Binance Smart Chain](https://www.binance.org/en/smartChain)**:
 > This dual-chain architecture will empower its users to build their decentralized apps and digital assets on one blockchain and take advantage of the fast trading to exchange on the other.
-
+ -->
 Every EVM compatible technologies have one or more uniqueness (es). Some factors we consider: 
 
 * Should be Ethereum virtual machines compatible. That is, capability of executing smart contracts instructions which we deem suitable for implemeting our backend written in solidity language.

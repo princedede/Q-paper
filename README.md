@@ -16,7 +16,7 @@ As the Blockchain industry grows, decentralized financing increases in stature w
 
 ### Quatrefinance products
 
-#### Categories: 
+### Categories: 
 
 Core
 - **[Q-Core](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md#)**
@@ -39,18 +39,18 @@ Wallet
 #### Quatrefinace Token (QFT)
 - **[Metrics and Information (Everything You Need To Know)](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/Farm.md#the-farmer)**
 
------------------
+
 
 #### Governance
 
 - **[QMaster](https://github.com/Quatre-Finance/Q-paper/blob/main/quatre_gov/Q_Master.md#quatre-governance)**
 
-------------------
+
 
 #### Ways-To-Earn
 - **[Earning Model](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md#ways-to-earn-with-quatre-finance)**
 
------------------
+
 
 #### Roadmaps
 
@@ -58,8 +58,12 @@ Wallet
 
 
 
---------------------
-- **Website**: In development
+#### Links
+- [Website](https://quatre.finance)
+- [DApp](https://app.quatre.finance)
+- [Telegram](https://t.me/quatrefinance)
+- [Twitter](https://twitter.com/Quatrefinance)
+- [Announcement](https://t.me/QuatreDefi)
 --------------------------------------
 
 <!-- ### HOW TO CONTRIBUTE TO THIS DOCUMENT
