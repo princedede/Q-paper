@@ -3,6 +3,8 @@
 - **What is a session?**
 This is a period of not greater than 7 days i.e period from the time fund was released to repayment period.
 
+- ### What are public and private bands?
+
 - **What is a period**
 Aggregate time (days) it takes to complete a round i.e 28 days.
 
