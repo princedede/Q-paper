@@ -1,12 +1,12 @@
 #### MinimumStaking threshold
 
-...unavailable
+Not set
 
 ------------------------------
 
 #### Maximum Staking threshold
 
-...unavailable.
+Not set
 
 ---------------------
 

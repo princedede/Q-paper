@@ -11,7 +11,9 @@ Just as the mechanism renders the caller's staked balance inactive for the perio
 
 #### FanTip
 
-We used this term to describe a condition where a holder of **QFT** has not reduce their balance for a period of 30 days at  a stretch. If they decide to withdraw thereafter, they automatically earn 1% of the total idle balance. However it does not apply to the regular balance.  
+We used this term to describe a condition where a holder of **QFT** has not reduce their balance for a period of 30 days at  a stretch. If they decide to withdraw thereafter, they automatically earn 1% of the total idle balance. However it does not apply to the regular balance.
+
+`NB` : FanTip can be activated or deactivated.
 
 --------------------------------
 

@@ -18,20 +18,20 @@ Quatrefinance Home is the unbrella for all Quatrefinance' products. With regards
 
 ## Categories: 
 
-- **[Q-DeFi](https://github.com/Quatre-Finance/Q-paper/blob/main/defi/)**
+- **[Q-DeFi](https://github.com/Quatre-Finance/Q-paper/tree/main/defi)**
 
 - **[Q-P2p](https://github.com/Quatre-Finance/Q-paper/blob/main/p2p)**
 
-- **[Q-WalletService](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
+- **[Q-WalletService](https://github.com/Quatre-Finance/Q-paper/tree/main/walletService/q_wallet)**
 
-- **[Q-Other](https://github.com/Quatre-Finance/Q-paper/blob/main/q_lend/QLend.md#quatre-landb-q-landb)**
+- **[Q-Other](https://github.com/Quatre-Finance/Q-paper/tree/main/other)**
 
 
 ----------------
 
-- **[Roadmaps](https://github.com/Quatre-Finance/Q-paper/blob/main/q_bands/Q_bands.md#quatre-buy-and-sell-q-bands)**
+- **[Roadmaps](https://github.com/Quatre-Finance/Q-paper/tree/main/roadmaps)**
 
-- **[Quatrefinace Token (QFT)](https://github.com/Quatre-Finance/Q-paper/blob/main/q_farm/Farm.md#the-farmer)**
+- **[Quatrefinace Token (QFT)](https://github.com/Quatre-Finance/Q-paper/tree/main/q_token)**
 
 
 #### Links

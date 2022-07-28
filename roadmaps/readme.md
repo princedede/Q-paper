@@ -1,6 +1,6 @@
 
 ### Development roadmaps
-
+<!-- 
 2021| Q1 | Q2 | Q3 | Q4
 ---- | -- | -- | -- | -- 
 **-** | Idea stage :heavy_check_mark: | Solution documentation and planning :heavy_check_mark: | Product design and strategy for code actualization :heavy_check_mark: | | Progress evaluation.
@@ -45,10 +45,10 @@
 -------------------------
 
 **[Gov](https://github.com/Quatre-Finance/Q-paper/tree/main/quatre_gov)** | **[Ways_To_Earn](https://github.com/Quatre-Finance/Q-paper/blob/main/wayToEarn.md)**
-:copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
+:copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)** -->
 
 
-
+## We are currently maintaining this section. Please check back later. Thank you.
 
 <!-- Gbenga Olotu: https://www.linkedin.com/in/oluwagbemiga-olotu-a3247710/
 

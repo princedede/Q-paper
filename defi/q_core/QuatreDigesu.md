@@ -86,7 +86,7 @@ At Quatrefinance, we harness the potentials of blockchain technology to solve ex
 - Earn for saving.
 
 
-### For more info, see the [FAQs]()
+### For more info, see the [FAQs](https://github.com/Quatre-Finance/Q-paper/blob/main/defi/q_core/faq.md) | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
 <!-- 
 We represent thus:
 - With collaterized:

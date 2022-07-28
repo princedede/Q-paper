@@ -8,4 +8,4 @@
     - There is a one-time creation fee which is very minimal with repect to the network it is deployed to.
 
 
-**[Previous]()** | **[Next]()**
+**[Previous](https://github.com/Quatre-Finance/Q-paper/blob/main/defi/q_bands/Q_bands.md)** | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**

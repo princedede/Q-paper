@@ -33,6 +33,6 @@ Firstly, the protocol ensures to fund is let out unless collateral is provided. 
 ----------------------------
 
 
-**[Previous](https://github.com/Quatre-Finance/Q-paper/blob/main/q_core/Q_core.md)** | **[Farm](https://github.com/Quatre-Finance/Q-paper/tree/main/q_farm)**
+**[Previous](https://github.com/Quatre-Finance/Q-paper/blob/main/defi/q_core/QuatreDigesu.md)**
 
 :copyright: Quatrefinance | **[Home](https://github.com/Quatre-Finance/Q-paper#concept-overview)**
